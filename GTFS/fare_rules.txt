@@ -4,6 +4,7 @@ fare_id,route_id,origin_id,destination_id
 1,RC05,,
 1,RC06,,
 1,RC09,,
+1,RC10,,
 1,RC11,,
 1,RC12,,
 1,RC14,,
