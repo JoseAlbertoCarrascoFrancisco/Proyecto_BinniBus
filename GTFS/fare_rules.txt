@@ -1,0 +1,14 @@
+fare_id,route_id,origin_id,destination_id
+1,RT01,,
+1,RA03,,
+1,RC05,,
+1,RC06,,
+1,RC09,,
+1,RC11,,
+1,RC12,,
+1,RC14,,
+1,RA15,,
+1,RC15,,
+1,RA17,,
+1,RA18,,
+

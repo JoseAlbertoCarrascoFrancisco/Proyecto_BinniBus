@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+RT01,1,RT01,RT-01 Kayaal: Yuroo Viguera – Yuroo Xoxocotlán,3,A81845
+RA03,1,RA03,RA-03 Ladxidó: Yuroo Parque del Amor ‘Ladxidó – De Azucena camino a Huayápam,3,F7AC2F
+RC05,1,RC05,RC-05 XUUJX: Viguera / Los Ángeles – Jardín Madero (Centro),3,287B71
+RC06,1,RC06,RC-06 Mondok: Base San Jacinto Amilpas - De Azucena Camino a Huayápam,3,2D519F
+RC09,1,RC09,RC-09 Kítsian Jan: Colonia Bugambilias – Fracc. El Rosario,3,10AFA5
+RC11,1,RC11,RC-11 Má┼²: La Raya / Aeropuerto – Módulo Azul,3,046631
+RC12,1,RC12,RC-12 Ñunda: Tlalixtac de Cabrera – Yuroo Parque del Amor ‘Ladxido’,3,F36B39
+RC14,1,RC14,RC-14 Laba’: Yuroo Viguera – San Sebastián Tutla,3,DC157A
+RA15,1,RA15,RA-15 XRA’: Colonia Monte Albán – Cd. Administrativa,3,B70F65
+RC15,1,RC15,RC-15 Yu Ngta’: Hospital de la Mujer y la Niñez Oaxaqueña – Base Símbolos Patrios – Módulo Azul,3,8E428D
+RA17,1,RA17,RA-17 Bakku Nunni: Monte Albán – Símbolos Patrios,3,138DCE
+RA18,1,RA18,RA-18 Nave’e: Yuroo Viguera – Centro de Rehabilitación DIF,3,5DAE36
