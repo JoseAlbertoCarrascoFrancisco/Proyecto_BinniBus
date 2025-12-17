@@ -13,7 +13,7 @@ def generar_trips(
     (Ya NO inserta datos en base de datos)
     """
 
-    trip_prefix = "BinniBusRA15.1."
+    trip_prefix = "BinniBusRC10.1."
     trips = []
 
     # === 1️⃣ Generar el archivo trips.txt ===
@@ -30,11 +30,11 @@ def generar_trips(
 
 
 # === 🧭 CONFIGURACIÓN DEL USUARIO ===
-route_id = "RA15"
+route_id = "RC10"
 service_id = "FULLBNB"
-shape_id = "BinniBusRA15"
+shape_id = "BinniBusRC10"
 direction_id = 1
-cantidad_trips = 28
+cantidad_trips = 36
 
 # === 🚀 EJECUCIÓN ===
 generar_trips(route_id, service_id, shape_id, direction_id, cantidad_trips)
