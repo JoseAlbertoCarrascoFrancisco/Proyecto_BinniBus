@@ -1,15 +1,29 @@
 # Pega tu lista de números directamente entre las comillas triples ('''...''').
 # Cada número debe estar en una línea separada.
 datos_de_entrada = '''
-410
-411
-412
-413
-414
-415
-416
-417
-418
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+21
 64
 65
 66
@@ -23,6 +37,21 @@ datos_de_entrada = '''
 425
 426
 427
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+368
+294
 '''
 
 # 1. Definir el desplazamiento para la conversión (1 -> 4256)
