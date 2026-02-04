@@ -27,5 +27,5 @@ def kmz_to_kml(kmz_path, output_path=None):
     return None
 
 # Ejemplo de uso
-kmz_file = 'Códigos/RC10.kmz'
+kmz_file = 'Códigos/RA14.kmz'
 kml_file = kmz_to_kml(kmz_file)
