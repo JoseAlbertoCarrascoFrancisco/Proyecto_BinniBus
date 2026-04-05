@@ -3,10 +3,12 @@ RT01,1,RT01,RT-01 Kayaal: Yuroo Viguera – Yuroo Xoxocotlán,3,A81845
 RA01,1,RA01,RA-01 JNÒN: Esquipulas – Central de Abastos,3,B52A4E
 RA02,1,RA02,RA-02 Mo’: Santa María Atzompa – Guadalupe Victoria,3,0C495B
 RA03,1,RA03,RA-03 Ladxidó: Yuroo Parque del Amor ‘Ladxidó – De Azucena Camino a Huayápam,3,F7AC2F
+RA04,1,RA04,RA-04 NAA: Monumento a la Madre/Tecnológico – Santa Cruz Amilpas,3,AA2584
 RA06,1,RA06,RA-06 WAGUL: San Martín Mexicapam – Primera Etapa,3,87509A
 RA07,1,RA07,RA-07 UXACHA: Guadalupe Victoria 2da Sección – Colonia Moctezuma,3,EF8538
 RA08,1,RA08,RA-08 KOO: Agencia Donají – Colonia Satélite,3,016069
 RA11,1,RA11,RA-11 Tüchi: Montoya – Colonia Jardín,3,BC7015
+RA12,1,RA12,RA-12 NAJMÉ: Colonia La Soledad – Primera Etapa,3,009641
 RA13,1,RA13,RA-13 WAXIN: Parque del Amor – San Luis Beltrán,3,00833E
 RA14,1,RA14,RA-14 Poj: Montoya – Fraccionamiento El Rosario,3,E5332A
 RA15,1,RA15,RA-15 XRA’: Colonia Monte Albán – Cd. Administrativa,3,B70F65
@@ -14,6 +16,7 @@ RA16,1,RA16,RA-16 RI’NÎN: Colonia Guelaguetza – Plaza del Valle,3,B8042C
 RA17,1,RA17,RA-17 Bakku Nunni: Monte Albán – Símbolos Patrios,3,138DCE
 RA18,1,RA18,RA-18 Nave’e: Yuroo Viguera – Centro de Rehabilitación DIF,3,5DAE36
 RC01,1,RC01,RC-01 DUGUE: Pueblo Nuevo «La Joya» – Agencia Donají,3,D95196
+RC04,1,RC04,RC-04 ATLANTEKOMATL: Fracc. Benito Juárez/Esmeralda – Plaza del Valle,3,7AA2C1
 RC05,1,RC05,RC-05 XUUJX: Viguera / Los Ángeles – Jardín Madero (Centro),3,287B71
 RC06,1,RC06,RC-06 Mondok: Base San Jacinto Amilpas - De Azucena Camino a Huayápam,3,2D519F
 RC08,1,RC08,RC-08 RUJA: Colonia Jardín – Colonia Heladio Ramírez López,3,BB5817
