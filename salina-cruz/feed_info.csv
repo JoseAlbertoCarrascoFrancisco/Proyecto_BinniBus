@@ -1,0 +1,6 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
+BinniBus,https://www.oaxaca.gob.mx/citybus,es,20251101,20281231,01,webadmin@oaxaca.gob.mx
+
+
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Trufi Association,https://trufi-association.org,es,20251101,20261031,"Fri, 14 Nov 2025 05:10:13 GMT",luz.choque@trufi-association.org,https://trufi-association.org

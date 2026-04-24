@@ -1,0 +1,25 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+19314052,0,R02,Centro → Primero de mayo,3,70B2E3,ffffff
+19332793,0,R03,Centro → Liverpool,3,7E858A,ffffff
+19332950,0,R04,Centro → Lombardo,3,E4821E,ffffff
+19333033,0,R05,Centro → San Pablo Norte,3,C22922,ffffff
+19335385,0,R06,Centro → Jesús Rasgagrdo,3,E4821E,ffffff
+19338099,0,R08,Centro → Barrio Juárez (escuela),3,70B2E3,ffffff
+19338129,0,R09,Centro → Francisco I. Madero,3,e9c01c,ffffff
+19338186,0,R10,Centro → H. Poniente (5 de diciembre),3,E4821E,ffffff
+19344359,0,R11,Centro → Refinería,3,D26EB7,ffffff
+19344409,0,R12,Centro → Cerro Alto,3,C22922,ffffff
+19344461,0,R13,Centro → 5 de febrero,3,C22922,ffffff
+19353330,0,R14,Centro → San Martín (parte baja) - Soledad Boca del Río,3,93BA2C,ffffff
+19353332,0,R15,Centro → Juquilita,3,70B2E3,ffffff
+19353351,0,R17,Centro → San Juan,3,3D6D31,ffffff
+19362578,0,R19,Centro → Las Pilas,3,945A31,ffffff
+19362893,0,R20,Centro → El Roble,3,945A31,ffffff
+19363169,0,R21,Centro → Petrolera,3,70B2E3,ffffff
+19364993,0,R24,Centro → Ventosa,3,93BA2C,ffffff
+19365007,0,R25,Centro → Hidalgo Poniente (Calle Puebla),3,E4821E,ffffff
+19365123,0,R26,Centro → Porfirio Díaz,3,5D22A6,ffffff
+19365144,0,R27,Centro → Hidalgo Poniente (Calle Chiapas),3,E4821E,ffffff
+19370861,0,R01,Centro → Salinas (Escolleras),3,945A31,ffffff
