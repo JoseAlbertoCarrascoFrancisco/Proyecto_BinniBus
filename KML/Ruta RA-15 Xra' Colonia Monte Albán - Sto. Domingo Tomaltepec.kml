@@ -1,0 +1,5014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Ruta RA-15 Xra': Colonia Monte Albán - Sto. Domingo Tomaltepec]]></name>
+    <description/>
+    <Style id="icon-1532-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5000-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-5000-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-6000-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7CB342-6000-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>9</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7CB342-6000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-6000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-6000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>RA15 PARADAS IDA MAPA.csv</name>
+      <Placemark>
+        <name>IDA</name>
+        <description><![CDATA[descripción: <br>SECUENCIA: <br>NUMERO: <br>SENTIDO: <br>CONEXIÓN: <br>LATITUD: <br>LONGUITUD: <br>unnamed (1): ]]></description>
+        <styleUrl>#line-0288D1-5000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="SECUENCIA">
+            <value/>
+          </Data>
+          <Data name="NUMERO">
+            <value/>
+          </Data>
+          <Data name="SENTIDO">
+            <value/>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value/>
+          </Data>
+          <Data name="LONGUITUD">
+            <value/>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.758409,17.056514,0
+            -96.758094,17.056414,0
+            -96.757954,17.056044,0
+            -96.757815,17.05588,0
+            -96.757622,17.055839,0
+            -96.757193,17.055655,0
+            -96.756806,17.055562,0
+            -96.756313,17.055132,0
+            -96.756302,17.054619,0
+            -96.755991,17.054567,0
+            -96.75568,17.054547,0
+            -96.755337,17.054414,0
+            -96.755165,17.054496,0
+            -96.755026,17.054793,0
+            -96.754725,17.055419,0
+            -96.75436,17.05547,0
+            -96.754049,17.055347,0
+            -96.753811,17.05507,0
+            -96.753727,17.054793,0
+            -96.753599,17.054532,0
+            -96.753389,17.054203,0
+            -96.75333,17.053906,0
+            -96.753384,17.053783,0
+            -96.753362,17.053562,0
+            -96.753389,17.053431,0
+            -96.753454,17.053182,0
+            -96.753443,17.052987,0
+            -96.753478,17.052884,0
+            -96.753572,17.052774,0
+            -96.753609,17.052638,0
+            -96.753547,17.052551,0
+            -96.753402,17.052549,0
+            -96.753158,17.052618,0
+            -96.753024,17.052646,0
+            -96.752788,17.052638,0
+            -96.752678,17.05258,0
+            -96.75253,17.052279,0
+            -96.752381,17.052081,0
+            -96.752185,17.051933,0
+            -96.752036,17.051916,0
+            -96.75195,17.051987,0
+            -96.75193,17.052087,0
+            -96.752004,17.052294,0
+            -96.752092,17.052587,0
+            -96.752135,17.052826,0
+            -96.752086,17.052932,0
+            -96.751919,17.053126,0
+            -96.751626,17.053359,0
+            -96.75145,17.053462,0
+            -96.751332,17.053613,0
+            -96.751107,17.053841,0
+            -96.750846,17.053728,0
+            -96.750653,17.053626,0
+            -96.750525,17.053367,0
+            -96.750412,17.053207,0
+            -96.750257,17.053192,0
+            -96.750112,17.053386,0
+            -96.749953,17.05377,0
+            -96.749484,17.054469,0
+            -96.749094,17.054713,0
+            -96.748744,17.055207,0
+            -96.748401,17.05572,0
+            -96.748132,17.05611,0
+            -96.747854,17.056397,0
+            -96.747199,17.056674,0
+            -96.746598,17.056571,0
+            -96.746019,17.056202,0
+            -96.745858,17.0561,0
+            -96.742905,17.058763,0
+            -96.740254,17.061022,0
+            -96.739839,17.061455,0
+            -96.739384,17.061574,0
+            -96.737855,17.06161,0
+            -96.73734,17.06159,0
+            -96.737098,17.061374,0
+            -96.737055,17.061082,0
+            -96.736948,17.060646,0
+            -96.736862,17.05982,0
+            -96.736728,17.05941,0
+            -96.736535,17.058985,0
+            -96.736422,17.058918,0
+            -96.73513,17.059749,0
+            -96.73351,17.060785,0
+            -96.733209,17.061195,0
+            -96.731304,17.061211,0
+            -96.729965,17.061057,0
+            -96.728804,17.060903,0
+            -96.72857,17.06162,0
+            -96.728418,17.062698,0
+            -96.726036,17.062226,0
+            -96.715966,17.060115,0
+            -96.715612,17.060274,0
+            -96.714267,17.060831,0
+            -96.714063,17.060811,0
+            -96.713758,17.060724,0
+            -96.713602,17.060816,0
+            -96.713613,17.061103,0
+            -96.710528,17.062062,0
+            -96.708715,17.062678,0
+            -96.70246,17.064062,0
+            -96.69997,17.0646,0
+            -96.697504,17.06476,0
+            -96.69671,17.06465,0
+            -96.696752,17.064165,0
+            -96.69671,17.06405,0
+            -96.694602,17.063511,0
+            -96.694555,17.063501,0
+            -96.694556,17.06346,0
+            -96.69373,17.063266,0
+            -96.693307,17.063162,0
+            -96.69293,17.064822,0
+            -96.690119,17.064514,0
+            -96.68656,17.06405,0
+            -96.685237,17.064083,0
+            -96.684465,17.064176,0
+            -96.683252,17.06433,0
+            -96.681589,17.064114,0
+            -96.682492,17.061186,0
+            -96.683463,17.059314,0
+            -96.683909,17.057207,0
+            -96.684333,17.055868,0
+            -96.684478,17.055504,0
+            -96.683984,17.055494,0
+            -96.682946,17.055502,0
+            -96.682705,17.055548,0
+            -96.681326,17.055502,0
+            -96.681224,17.055692,0
+            -96.680988,17.056543,0
+            -96.68094,17.056666,0
+            -96.680918,17.056912,0
+            -96.680961,17.057086,0
+            -96.674975,17.057092,0
+            -96.67344,17.057081,0
+            -96.67269,17.05714,0
+            -96.67011,17.05781,0
+            -96.668613,17.058251,0
+            -96.667572,17.05824,0
+            -96.667121,17.058107,0
+            -96.661403,17.056189,0
+            -96.660051,17.055861,0
+            -96.659364,17.056374,0
+            -96.658291,17.058056,0
+            -96.645688,17.050966,0
+            -96.638976,17.04732,0
+            -96.639019,17.046376,0
+            -96.638246,17.045966,0
+            -96.637109,17.045576,0
+            -96.6352,17.04494,0
+            -96.633621,17.044389,0
+            -96.633117,17.044604,0
+            -96.631608,17.0488,0
+            -96.631929,17.048888,0
+            -96.63076,17.051739,0
+            -96.627498,17.054534,0
+            -96.62591,17.05865,0
+            -96.625749,17.059252,0
+            -96.625642,17.059826,0
+            -96.624656,17.059897,0
+            -96.624633,17.060089,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Base Colonia Monte Albán</name>
+        <description><![CDATA[descripción: SECUENCIA: 1<br>NUMERO: 1<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0565137<br>LONGUITUD: -96.7584094<br>unnamed (1):<br>SECUENCIA: 1.0<br>NUMERO: 1.0<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0565137<br>LONGUITUD: -96.7584094<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 1
+NUMERO: 1
+SENTIDO: IDA
+CONEXIÓN: RA17
+LATITUD: 17.0565137
+LONGUITUD: -96.7584094
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>1.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>1.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0565137</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7584094</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.758409,17.056514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pinopia</name>
+        <description><![CDATA[descripción: SECUENCIA: 2<br>NUMERO: 2<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0544224<br>LONGUITUD: -96.7554426<br>unnamed (1):<br>SECUENCIA: 2.0<br>NUMERO: 2.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0544224<br>LONGUITUD: -96.7554426<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 2
+NUMERO: 2
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0544224
+LONGUITUD: -96.7554426
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>2.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>2.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0544224</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7554426</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.755443,17.054422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donají</name>
+        <description><![CDATA[descripción: SECUENCIA: 3<br>NUMERO: 3<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0550698<br>LONGUITUD: -96.753811<br>unnamed (1):<br>SECUENCIA: 3.0<br>NUMERO: 3.0<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0550698<br>LONGUITUD: -96.753811<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 3
+NUMERO: 3
+SENTIDO: IDA
+CONEXIÓN: RA17
+LATITUD: 17.0550698
+LONGUITUD: -96.753811
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>3.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>3.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0550698</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.753811</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.753811,17.05507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farmacia</name>
+        <description><![CDATA[descripción: SECUENCIA: 4<br>NUMERO: 4<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.05264447<br>LONGUITUD: -96.7534686<br>unnamed (1):<br>SECUENCIA: 4.0<br>NUMERO: 4.0<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.05264447<br>LONGUITUD: -96.7534686<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 4
+NUMERO: 4
+SENTIDO: IDA
+CONEXIÓN: RA17
+LATITUD: 17.05264447
+LONGUITUD: -96.7534686
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>4.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>4.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05264447</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7534686</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.753469,17.052644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalachi</name>
+        <description><![CDATA[descripción: SECUENCIA: 5<br>NUMERO: 5<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.053342<br>LONGUITUD: -96.7503134<br>unnamed (1):<br>SECUENCIA: 5.0<br>NUMERO: 5.0<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.053342<br>LONGUITUD: -96.7503134<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 5
+NUMERO: 5
+SENTIDO: IDA
+CONEXIÓN: RA17
+LATITUD: 17.053342
+LONGUITUD: -96.7503134
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>5.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>5.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.053342</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7503134</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.750313,17.053342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heladio Ramírez</name>
+        <description><![CDATA[descripción: SECUENCIA: 6<br>NUMERO: 6<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0554835<br>LONGUITUD: -96.7486587<br>unnamed (1):<br>SECUENCIA: 6.0<br>NUMERO: 6.0<br>SENTIDO: IDA<br>CONEXIÓN: RA17<br>LATITUD: 17.0554835<br>LONGUITUD: -96.7486587<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 6
+NUMERO: 6
+SENTIDO: IDA
+CONEXIÓN: RA17
+LATITUD: 17.0554835
+LONGUITUD: -96.7486587
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>6.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>6.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0554835</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7486587</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.748659,17.055484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hierro</name>
+        <description><![CDATA[descripción: SECUENCIA: 7<br>NUMERO: 7<br>SENTIDO: IDA<br>CONEXIÓN: RA10<br>LATITUD: 17.0562462<br>LONGUITUD: 	-96.745656<br>unnamed (1):<br>SECUENCIA: 7.0<br>NUMERO: 7.0<br>SENTIDO: IDA<br>CONEXIÓN: RA10<br>LATITUD: 17.0562462<br>LONGUITUD: -96.745656<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 7
+NUMERO: 7
+SENTIDO: IDA
+CONEXIÓN: RA10
+LATITUD: 17.0562462
+LONGUITUD: 	-96.745656
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>7.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>7.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA10</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0562462</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.745656</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.745656,17.056246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4 Caminos</name>
+        <description><![CDATA[descripción: SECUENCIA: 8<br>NUMERO: 8<br>SENTIDO: IDA<br>CONEXIÓN: RA10<br>LATITUD: 17.0585759<br>LONGUITUD: -96.7430442<br>unnamed (1):<br>SECUENCIA: 8.0<br>NUMERO: 8.0<br>SENTIDO: IDA<br>CONEXIÓN: RA10<br>LATITUD: 17.0585759<br>LONGUITUD: -96.7430442<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 8
+NUMERO: 8
+SENTIDO: IDA
+CONEXIÓN: RA10
+LATITUD: 17.0585759
+LONGUITUD: -96.7430442
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>8.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>8.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA10</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0585759</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7430442</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.743044,17.058576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Juárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 9<br>NUMERO: 9<br>SENTIDO: IDA<br>CONEXIÓN: RA02, RA06,RA7,RA10,RA11,RA14,RA16<br>LATITUD: 17.06102157<br>LONGUITUD: -96.74025379<br>unnamed (1):<br>SECUENCIA: 9.0<br>NUMERO: 9.0<br>SENTIDO: IDA<br>CONEXIÓN: RA02, RA06,RA7,RA10,RA11,RA14,RA16<br>LATITUD: 17.06102157<br>LONGUITUD: -96.74025379<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 9
+NUMERO: 9
+SENTIDO: IDA
+CONEXIÓN: RA02, RA06,RA7,RA10,RA11,RA14,RA16
+LATITUD: 17.06102157
+LONGUITUD: -96.74025379
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>9.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>9.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02, RA06,RA7,RA10,RA11,RA14,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06102157</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.74025379</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.740254,17.061022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valerio Trujano</name>
+        <description><![CDATA[descripción: SECUENCIA: 10<br>NUMERO: 10<br>SENTIDO: IDA<br>CONEXIÓN: RA02<br>LATITUD: 17.06136056<br>LONGUITUD: -96.73713727<br>unnamed (1):<br>SECUENCIA: 10.0<br>NUMERO: 10.0<br>SENTIDO: IDA<br>CONEXIÓN: RA02<br>LATITUD: 17.06136056<br>LONGUITUD: -96.73713727<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 10
+NUMERO: 10
+SENTIDO: IDA
+CONEXIÓN: RA02
+LATITUD: 17.06136056
+LONGUITUD: -96.73713727
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>10.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>10.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06136056</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.73713727</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.737137,17.061361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Mercaderes</name>
+        <description><![CDATA[descripción: SECUENCIA: 11<br>NUMERO: 11<br>SENTIDO: IDA<br>CONEXIÓN: RA01, RA02,RA06,RA07,RA10,RA11,RA14,RA16<br>LATITUD: 17.05923332<br>LONGUITUD: -96.73585241<br>unnamed (1):<br>SECUENCIA: 11.0<br>NUMERO: 11.0<br>SENTIDO: IDA<br>CONEXIÓN: RA01, RA02,RA06,RA07,RA10,RA11,RA14,RA16<br>LATITUD: 17.05923332<br>LONGUITUD: -96.73585241<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 11
+NUMERO: 11
+SENTIDO: IDA
+CONEXIÓN: RA01, RA02,RA06,RA07,RA10,RA11,RA14,RA16
+LATITUD: 17.05923332
+LONGUITUD: -96.73585241
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>11.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>11.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA01, RA02,RA06,RA07,RA10,RA11,RA14,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05923332</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.73585241</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.735852,17.059233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Abastos</name>
+        <description><![CDATA[descripción: SECUENCIA: 12<br>NUMERO: 12<br>SENTIDO: IDA<br>CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA16<br>LATITUD: 17.0605729<br>LONGUITUD: -96.7339204<br>unnamed (1):<br>SECUENCIA: 12.0<br>NUMERO: 12.0<br>SENTIDO: IDA<br>CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA16<br>LATITUD: 17.0605729<br>LONGUITUD: -96.7339204<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 12
+NUMERO: 12
+SENTIDO: IDA
+CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA16
+LATITUD: 17.0605729
+LONGUITUD: -96.7339204
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>12.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>12.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0605729</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7339204</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.73392,17.060573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guadalupe Victoria</name>
+        <description><![CDATA[descripción: SECUENCIA: 13<br>NUMERO: 13<br>SENTIDO: IDA<br>CONEXIÓN: RC06,RA02,RA07,RA10,RA11,RA14<br>LATITUD: 17.061195<br>LONGUITUD: -96.732167<br>unnamed (1):<br>SECUENCIA: 13.0<br>NUMERO: 13.0<br>SENTIDO: IDA<br>CONEXIÓN: RC06,RA02,RA07,RA10,RA11,RA14<br>LATITUD: 17.061195<br>LONGUITUD: -96.732167<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 13
+NUMERO: 13
+SENTIDO: IDA
+CONEXIÓN: RC06,RA02,RA07,RA10,RA11,RA14
+LATITUD: 17.061195
+LONGUITUD: -96.732167
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>13.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>13.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC06,RA02,RA07,RA10,RA11,RA14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.061195</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.732167</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.732167,17.061195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mier y Terán</name>
+        <description><![CDATA[descripción: SECUENCIA: 14<br>NUMERO: 14<br>SENTIDO: IDA<br>CONEXIÓN: RC06, RA02,RA07,RA10,RA11,RA14<br>LATITUD: 17.061057<br>LONGUITUD: -96.729965<br>unnamed (1):<br>SECUENCIA: 14.0<br>NUMERO: 14.0<br>SENTIDO: IDA<br>CONEXIÓN: RC06, RA02,RA07,RA10,RA11,RA14<br>LATITUD: 17.061057<br>LONGUITUD: -96.729965<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 14
+NUMERO: 14
+SENTIDO: IDA
+CONEXIÓN: RC06, RA02,RA07,RA10,RA11,RA14
+LATITUD: 17.061057
+LONGUITUD: -96.729965
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>14.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>14.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC06, RA02,RA07,RA10,RA11,RA14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.061057</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.729965</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.729965,17.061057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miguel Hidalgo</name>
+        <description><![CDATA[descripción: SECUENCIA: 15<br>NUMERO: 15<br>SENTIDO: IDA<br>CONEXIÓN: RC06,RA07,RA08,RA10,RA11<br>LATITUD: 17.06162<br>LONGUITUD: -96.72857<br>unnamed (1):<br>SECUENCIA: 15.0<br>NUMERO: 15.0<br>SENTIDO: IDA<br>CONEXIÓN: RC06,RA07,RA08,RA10,RA11<br>LATITUD: 17.06162<br>LONGUITUD: -96.72857<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 15
+NUMERO: 15
+SENTIDO: IDA
+CONEXIÓN: RC06,RA07,RA08,RA10,RA11
+LATITUD: 17.06162
+LONGUITUD: -96.72857
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>15.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>15.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC06,RA07,RA08,RA10,RA11</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06162</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72857</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72857,17.06162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alameda de León</name>
+        <description><![CDATA[descripción: SECUENCIA: 16<br>NUMERO: 16<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06215<br>LONGUITUD: -96.72622<br>unnamed (1):<br>SECUENCIA: 16.0<br>NUMERO: 16.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06215<br>LONGUITUD: -96.72622<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 16
+NUMERO: 16
+SENTIDO: IDA
+CONEXIÓN: RC14, RA02
+LATITUD: 17.06215
+LONGUITUD: -96.72622
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>16.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>16.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14, RA02</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06215</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72622</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72622,17.06215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manuel Fernandez Fiallo</name>
+        <description><![CDATA[descripción: SECUENCIA: 17<br>NUMERO: 17<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06148<br>LONGUITUD: -96.72278<br>unnamed (1):<br>SECUENCIA: 17.0<br>NUMERO: 17.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06148<br>LONGUITUD: -96.72278<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 17
+NUMERO: 17
+SENTIDO: IDA
+CONEXIÓN: RC14, RA02
+LATITUD: 17.06148
+LONGUITUD: -96.72278
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>17.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>17.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14, RA02</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06148</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72278</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72278,17.06148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Merced</name>
+        <description><![CDATA[descripción: SECUENCIA: 18<br>NUMERO: 18<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06078<br>LONGUITUD: -96.71933<br>unnamed (1):<br>SECUENCIA: 18.0<br>NUMERO: 18.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14, RA02<br>LATITUD: 17.06078<br>LONGUITUD: -96.71933<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 18
+NUMERO: 18
+SENTIDO: IDA
+CONEXIÓN: RC14, RA02
+LATITUD: 17.06078
+LONGUITUD: -96.71933
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>18.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>18.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14, RA02</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06078</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71933</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71933,17.06078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prolongación de Av. de la Independencia</name>
+        <description><![CDATA[descripción: SECUENCIA: 19<br>NUMERO: 19<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06017<br>LONGUITUD: -96.71574<br>unnamed (1):<br>SECUENCIA: 19.0<br>NUMERO: 19.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06017<br>LONGUITUD: -96.71574<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 19
+NUMERO: 19
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06017
+LONGUITUD: -96.71574
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>19.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>19.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06017</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71574</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71574,17.06017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 de Febrero</name>
+        <description><![CDATA[descripción: SECUENCIA: 20<br>NUMERO: 20<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06164<br>LONGUITUD: -96.71185<br>unnamed (1):<br>SECUENCIA: 20.0<br>NUMERO: 20.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06164<br>LONGUITUD: -96.71185<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 20
+NUMERO: 20
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06164
+LONGUITUD: -96.71185
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>20.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>20.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06164</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71185</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71185,17.06164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3 Norte</name>
+        <description><![CDATA[descripción: SECUENCIA: 21<br>NUMERO: 21<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06257<br>LONGUITUD: -96.70893<br>unnamed (1):<br>SECUENCIA: 21.0<br>NUMERO: 21.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06257<br>LONGUITUD: -96.70893<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 21
+NUMERO: 21
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06257
+LONGUITUD: -96.70893
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>21.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>21.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06257</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.70893</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.70893,17.06257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laguna de Termino</name>
+        <description><![CDATA[descripción: SECUENCIA: 22<br>NUMERO: 22<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06315<br>LONGUITUD: -96.70649<br>unnamed (1):<br>SECUENCIA: 22.0<br>NUMERO: 22.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06315<br>LONGUITUD: -96.70649<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 22
+NUMERO: 22
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06315
+LONGUITUD: -96.70649
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>22.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>22.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06315</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.70649</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.70649,17.06315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural y de Convenciones de Oaxaca</name>
+        <description><![CDATA[descripción: SECUENCIA: 23<br>NUMERO: 23<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.0636453<br>LONGUITUD: -96.7043345<br>unnamed (1):<br>SECUENCIA: 23.0<br>NUMERO: 23.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.0636453<br>LONGUITUD: -96.7043345<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 23
+NUMERO: 23
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.0636453
+LONGUITUD: -96.7043345
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>23.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>23.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0636453</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7043345</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.704334,17.063645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 de Septiembre</name>
+        <description><![CDATA[descripción: SECUENCIA: 24<br>NUMERO: 24<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06402<br>LONGUITUD: -96.70231<br>unnamed (1):<br>SECUENCIA: 24.0<br>NUMERO: 24.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06402<br>LONGUITUD: -96.70231<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 24
+NUMERO: 24
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06402
+LONGUITUD: -96.70231
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>24.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>24.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06402</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.70231</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.70231,17.06402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrizal</name>
+        <description><![CDATA[descripción: SECUENCIA: 25<br>NUMERO: 25<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06457<br>LONGUITUD: -96.69959<br>unnamed (1):<br>SECUENCIA: 25.0<br>NUMERO: 25.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06457<br>LONGUITUD: -96.69959<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 25
+NUMERO: 25
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06457
+LONGUITUD: -96.69959
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>25.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>25.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06457</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69959</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69959,17.06457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calicanto</name>
+        <description><![CDATA[descripción: SECUENCIA: 26<br>NUMERO: 26<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06465<br>LONGUITUD: -96.69671<br>unnamed (1):<br>SECUENCIA: 26.0<br>NUMERO: 26.0<br>SENTIDO: IDA<br>CONEXIÓN: RC14<br>LATITUD: 17.06465<br>LONGUITUD: -96.69671<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 26
+NUMERO: 26
+SENTIDO: IDA
+CONEXIÓN: RC14
+LATITUD: 17.06465
+LONGUITUD: -96.69671
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>26.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>26.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06465</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69671</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69671,17.06465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Juárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 27<br>NUMERO: 27<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14,RA10<br>LATITUD: 17.06477<br>LONGUITUD: -96.69376<br>unnamed (1):<br>SECUENCIA: 27.0<br>NUMERO: 27.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14,RA10<br>LATITUD: 17.06477<br>LONGUITUD: -96.69376<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 27
+NUMERO: 27
+SENTIDO: IDA
+CONEXIÓN: RA04,RC14,RA10
+LATITUD: 17.06477
+LONGUITUD: -96.69376
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>27.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>27.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04,RC14,RA10</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06477</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69376</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69376,17.06477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego de los Hornos</name>
+        <description><![CDATA[descripción: SECUENCIA: 28<br>NUMERO: 28<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14,RA10<br>LATITUD: 17.06454<br>LONGUITUD: -96.6906<br>unnamed (1):<br>SECUENCIA: 28.0<br>NUMERO: 28.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14,RA10<br>LATITUD: 17.06454<br>LONGUITUD: -96.6906<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 28
+NUMERO: 28
+SENTIDO: IDA
+CONEXIÓN: RA04,RC14,RA10
+LATITUD: 17.06454
+LONGUITUD: -96.6906
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>28.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>28.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04,RC14,RA10</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06454</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6906</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.6906,17.06454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Raya</name>
+        <description><![CDATA[descripción: SECUENCIA: 29<br>NUMERO: 29<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.06405<br>LONGUITUD: -96.68656<br>unnamed (1):<br>SECUENCIA: 29.0<br>NUMERO: 29.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.06405<br>LONGUITUD: -96.68656<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 29
+NUMERO: 29
+SENTIDO: IDA
+CONEXIÓN: RA04,RC14
+LATITUD: 17.06405
+LONGUITUD: -96.68656
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>29.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>29.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06405</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68656</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.68656,17.06405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lázaro Cárdenas</name>
+        <description><![CDATA[descripción: SECUENCIA: 30<br>NUMERO: 30<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.06425<br>LONGUITUD: -96.68297<br>unnamed (1):<br>SECUENCIA: 30.0<br>NUMERO: 30.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.06425<br>LONGUITUD: -96.68297<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 30
+NUMERO: 30
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.06425
+LONGUITUD: -96.68297
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>30.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>30.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06425</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68297</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.68297,17.06425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Independencia</name>
+        <description><![CDATA[descripción: SECUENCIA: 31<br>NUMERO: 31<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0636909<br>LONGUITUD: -96.6816628<br>unnamed (1):<br>SECUENCIA: 31.0<br>NUMERO: 31.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0636909<br>LONGUITUD: -96.6816628<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 31
+NUMERO: 31
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.0636909
+LONGUITUD: -96.6816628
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>31.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>31.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0636909</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6816628</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.681663,17.063691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allende</name>
+        <description><![CDATA[descripción: SECUENCIA: 32<br>NUMERO: 32<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.060606<br>LONGUITUD: -96.682765<br>unnamed (1):<br>SECUENCIA: 32.0<br>NUMERO: 32.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.060606<br>LONGUITUD: -96.682765<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 32
+NUMERO: 32
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.060606
+LONGUITUD: -96.682765
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>32.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>32.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.060606</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.682765</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.682765,17.060606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 33<br>NUMERO: 33<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0574215<br>LONGUITUD: -96.6839028<br>unnamed (1):<br>SECUENCIA: 33.0<br>NUMERO: 33.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0574215<br>LONGUITUD: -96.6839028<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 33
+NUMERO: 33
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.0574215
+LONGUITUD: -96.6839028
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>33.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>33.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0574215</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6839028</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.683903,17.057422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz del Norte</name>
+        <description><![CDATA[descripción: SECUENCIA: 34<br>NUMERO: 34<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.05556774<br>LONGUITUD: -96.68448486<br>unnamed (1):<br>SECUENCIA: 34.0<br>NUMERO: 34.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.05556774<br>LONGUITUD: -96.68448486<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 34
+NUMERO: 34
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.05556774
+LONGUITUD: -96.68448486
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>34.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>34.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05556774</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68448486</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.684485,17.055568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz del Oriente</name>
+        <description><![CDATA[descripción: SECUENCIA: 35<br>NUMERO: 35<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0555111<br>LONGUITUD: -96.6814818<br>unnamed (1):<br>SECUENCIA: 35.0<br>NUMERO: 35.0<br>SENTIDO: IDA<br>CONEXIÓN: RA04<br>LATITUD: 17.0555111<br>LONGUITUD: -96.6814818<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 35
+NUMERO: 35
+SENTIDO: IDA
+CONEXIÓN: RA04
+LATITUD: 17.0555111
+LONGUITUD: -96.6814818
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>35.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>35.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0555111</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6814818</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.681482,17.055511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino Boca del Palo</name>
+        <description><![CDATA[descripción: SECUENCIA: 36<br>NUMERO: 36<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05705<br>LONGUITUD: -96.67888<br>unnamed (1):<br>SECUENCIA: 36.0<br>NUMERO: 36.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05705<br>LONGUITUD: -96.67888<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 36
+NUMERO: 36
+SENTIDO: IDA
+CONEXIÓN: RC12
+LATITUD: 17.05705
+LONGUITUD: -96.67888
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>36.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>36.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05705</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67888</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67888,17.05705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Macedonio Alcalá</name>
+        <description><![CDATA[descripción: SECUENCIA: 37<br>NUMERO: 37<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05703<br>LONGUITUD: -96.67592<br>unnamed (1):<br>SECUENCIA: 37.0<br>NUMERO: 37.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05703<br>LONGUITUD: -96.67592<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 37
+NUMERO: 37
+SENTIDO: IDA
+CONEXIÓN: RC12
+LATITUD: 17.05703
+LONGUITUD: -96.67592
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>37.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>37.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05703</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67592</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67592,17.05703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calz. del Toro</name>
+        <description><![CDATA[descripción: SECUENCIA: 38<br>NUMERO: 38<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05714<br>LONGUITUD: -96.67269<br>unnamed (1):<br>SECUENCIA: 38.0<br>NUMERO: 38.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05714<br>LONGUITUD: -96.67269<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 38
+NUMERO: 38
+SENTIDO: IDA
+CONEXIÓN: RC12
+LATITUD: 17.05714
+LONGUITUD: -96.67269
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>38.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>38.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05714</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67269</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67269,17.05714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calz del Panteón</name>
+        <description><![CDATA[descripción: SECUENCIA: 39<br>NUMERO: 39<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05781<br>LONGUITUD: -96.67011<br>unnamed (1):<br>SECUENCIA: 39.0<br>NUMERO: 39.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05781<br>LONGUITUD: -96.67011<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 39
+NUMERO: 39
+SENTIDO: IDA
+CONEXIÓN: RC12,RC14
+LATITUD: 17.05781
+LONGUITUD: -96.67011
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>39.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>39.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05781</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67011</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67011,17.05781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arenal</name>
+        <description><![CDATA[descripción: SECUENCIA: 40<br>NUMERO: 40<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05816<br>LONGUITUD: -96.66737<br>unnamed (1):<br>SECUENCIA: 40.0<br>NUMERO: 40.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05816<br>LONGUITUD: -96.66737<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 40
+NUMERO: 40
+SENTIDO: IDA
+CONEXIÓN: RC12,RC14
+LATITUD: 17.05816
+LONGUITUD: -96.66737
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>40.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>40.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05816</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.66737</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.66737,17.05816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Analco</name>
+        <description><![CDATA[descripción: SECUENCIA: 41<br>NUMERO: 41<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05651<br>LONGUITUD: -96.6624<br>unnamed (1):<br>SECUENCIA: 41.0<br>NUMERO: 41.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12,RC14<br>LATITUD: 17.05651<br>LONGUITUD: -96.6624<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 41
+NUMERO: 41
+SENTIDO: IDA
+CONEXIÓN: RC12,RC14
+LATITUD: 17.05651
+LONGUITUD: -96.6624
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>41.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>41.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05651</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6624</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.6624,17.05651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carretera Internacional 190</name>
+        <description><![CDATA[descripción: SECUENCIA: 42<br>NUMERO: 42<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05766<br>LONGUITUD: -96.65859<br>unnamed (1):<br>SECUENCIA: 42.0<br>NUMERO: 42.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05766<br>LONGUITUD: -96.65859<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 42
+NUMERO: 42
+SENTIDO: IDA
+CONEXIÓN: RC12
+LATITUD: 17.05766
+LONGUITUD: -96.65859
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>42.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>42.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05766</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.65859</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.65859,17.05766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciudad Administrativa</name>
+        <description><![CDATA[descripción: SECUENCIA: 43<br>NUMERO: 43<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05516<br>LONGUITUD: -96.65331<br>unnamed (1):<br>SECUENCIA: 43.0<br>NUMERO: 43.0<br>SENTIDO: IDA<br>CONEXIÓN: RC12<br>LATITUD: 17.05516<br>LONGUITUD: -96.65331<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 43
+NUMERO: 43
+SENTIDO: IDA
+CONEXIÓN: RC12
+LATITUD: 17.05516
+LONGUITUD: -96.65331
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>43.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>43.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05516</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.65331</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.65331,17.05516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benito Juárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 45<br>NUMERO: 45<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0484865<br>LONGUITUD: -96.6414084<br>unnamed (1):<br>SECUENCIA: 45.0<br>NUMERO: 45.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0484865<br>LONGUITUD: -96.6414084<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 45
+NUMERO: 45
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0484865
+LONGUITUD: -96.6414084
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>45.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>45.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0484865</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6414084</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.641408,17.048486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centenario</name>
+        <description><![CDATA[descripción: SECUENCIA: 56<br>NUMERO: 48<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0451625<br>LONGUITUD: -96.636246<br>unnamed (1):<br>SECUENCIA: 56.0<br>NUMERO: 48.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0451625<br>LONGUITUD: -96.636246<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 56
+NUMERO: 48
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0451625
+LONGUITUD: -96.636246
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>56.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>48.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0451625</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.636246</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.636246,17.045162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Monumental</name>
+        <description><![CDATA[descripción: SECUENCIA: 57<br>NUMERO: 49<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0444495<br>LONGUITUD: -96.6341994<br>unnamed (1):<br>SECUENCIA: 57.0<br>NUMERO: 49.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0444495<br>LONGUITUD: -96.6341994<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 57
+NUMERO: 49
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0444495
+LONGUITUD: -96.6341994
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>57.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>49.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0444495</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6341994</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.634199,17.04445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libertad</name>
+        <description><![CDATA[descripción: SECUENCIA: 58<br>NUMERO: 50<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0470885<br>LONGUITUD: -96.6321248<br>unnamed (1):<br>SECUENCIA: 58.0<br>NUMERO: 50.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0470885<br>LONGUITUD: -96.6321248<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 58
+NUMERO: 50
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0470885
+LONGUITUD: -96.6321248
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>58.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>50.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0470885</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6321248</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.632125,17.047088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hidalgo</name>
+        <description><![CDATA[descripción: SECUENCIA: 59<br>NUMERO: 51<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0487997<br>LONGUITUD: -96.6316081<br>unnamed (1):<br>SECUENCIA: 59.0<br>NUMERO: 51.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.0487997<br>LONGUITUD: -96.6316081<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 59
+NUMERO: 51
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.0487997
+LONGUITUD: -96.6316081
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>59.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>51.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0487997</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6316081</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.631608,17.0488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carretera a Santo Domingo</name>
+        <description><![CDATA[descripción: SECUENCIA: 60<br>NUMERO: 52<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05194<br>LONGUITUD: -96.63056<br>unnamed (1):<br>SECUENCIA: 60.0<br>NUMERO: 52.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05194<br>LONGUITUD: -96.63056<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 60
+NUMERO: 52
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.05194
+LONGUITUD: -96.63056
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>60.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>52.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05194</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.63056</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.63056,17.05194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Arenal</name>
+        <description><![CDATA[descripción: SECUENCIA: 61<br>NUMERO: 53<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05385<br>LONGUITUD: -96.62825<br>unnamed (1):<br>SECUENCIA: 61.0<br>NUMERO: 53.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05385<br>LONGUITUD: -96.62825<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 61
+NUMERO: 53
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.05385
+LONGUITUD: -96.62825
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>61.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>53.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05385</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62825</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.62825,17.05385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nino Artillero</name>
+        <description><![CDATA[descripción: SECUENCIA: 62<br>NUMERO: 54<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05865<br>LONGUITUD: -96.62591<br>unnamed (1):<br>SECUENCIA: 62.0<br>NUMERO: 54.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.05865<br>LONGUITUD: -96.62591<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 62
+NUMERO: 54
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.05865
+LONGUITUD: -96.62591
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>62.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>54.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05865</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62591</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.62591,17.05865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santo Domingo Tomaltepec</name>
+        <description><![CDATA[descripción: SECUENCIA: 63<br>NUMERO: 55<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.06005<br>LONGUITUD: -96.62462<br>unnamed (1):<br>SECUENCIA: 63.0<br>NUMERO: 55.0<br>SENTIDO: IDA<br>CONEXIÓN: <br>LATITUD: 17.06005<br>LONGUITUD: -96.62462<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 63
+NUMERO: 55
+SENTIDO: IDA
+CONEXIÓN: 
+LATITUD: 17.06005
+LONGUITUD: -96.62462
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>63.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>55.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>IDA</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06005</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62462</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.62462,17.06005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>RA15 PARADAS REGRESO MAPA.csv</name>
+      <Placemark>
+        <name>REGRESO</name>
+        <description><![CDATA[descripción: <br>SECUENCIA: <br>NUMERO: <br>SENTIDO: <br>CONEXIÓN: <br>LATITUD: <br>LONGUITUD: <br>unnamed (1): ]]></description>
+        <styleUrl>#line-7CB342-6000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="SECUENCIA">
+            <value/>
+          </Data>
+          <Data name="NUMERO">
+            <value/>
+          </Data>
+          <Data name="SENTIDO">
+            <value/>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value/>
+          </Data>
+          <Data name="LONGUITUD">
+            <value/>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.624652,17.060226,0
+            -96.62451,17.061864,0
+            -96.624094,17.063749,0
+            -96.622871,17.06358,0
+            -96.623279,17.060154,0
+            -96.623408,17.058985,0
+            -96.623772,17.05841,0
+            -96.624845,17.054184,0
+            -96.625146,17.053446,0
+            -96.624974,17.053323,0
+            -96.623386,17.052851,0
+            -96.624384,17.049497,0
+            -96.62447,17.049353,0
+            -96.625435,17.049641,0
+            -96.625822,17.049671,0
+            -96.625972,17.049528,0
+            -96.626025,17.049292,0
+            -96.62595,17.049056,0
+            -96.625028,17.047938,0
+            -96.62506,17.047733,0
+            -96.625553,17.046122,0
+            -96.629298,17.047784,0
+            -96.630757,17.043804,0
+            -96.63287,17.044614,0
+            -96.633117,17.044604,0
+            -96.633621,17.044389,0
+            -96.634136,17.044604,0
+            -96.63591,17.045168,0
+            -96.637924,17.045948,0
+            -96.638868,17.046338,0
+            -96.639082,17.04681,0
+            -96.639125,17.047384,0
+            -96.644125,17.050276,0
+            -96.653649,17.055558,0
+            -96.658365,17.058229,0
+            -96.659395,17.056567,0
+            -96.659717,17.056198,0
+            -96.660232,17.056034,0
+            -96.662721,17.056895,0
+            -96.667227,17.058352,0
+            -96.6683,17.058475,0
+            -96.66892,17.058335,0
+            -96.67274,17.05742,0
+            -96.673942,17.057248,0
+            -96.6767,17.05726,0
+            -96.680829,17.057289,0
+            -96.680958,17.057279,0
+            -96.680958,17.056838,0
+            -96.683093,17.05693,0
+            -96.683501,17.056735,0
+            -96.683909,17.057207,0
+            -96.683523,17.058925,0
+            -96.682492,17.061186,0
+            -96.681398,17.064058,0
+            -96.683673,17.064386,0
+            -96.686205,17.064099,0
+            -96.6906,17.06454,0
+            -96.692309,17.064725,0
+            -96.693285,17.064889,0
+            -96.69376,17.06477,0
+            -96.695388,17.064438,0
+            -96.69671,17.06465,0
+            -96.698621,17.064676,0
+            -96.700532,17.064496,0
+            -96.702634,17.063942,0
+            -96.70592,17.0634,0
+            -96.708214,17.062835,0
+            -96.71138,17.06189,0
+            -96.71405,17.060988,0
+            -96.716496,17.061152,0
+            -96.719457,17.06185,0
+            -96.721466,17.062249,0
+            -96.722367,17.058557,0
+            -96.72683,17.059398,0
+            -96.733096,17.060854,0
+            -96.733419,17.060739,0
+            -96.733633,17.060924,0
+            -96.736509,17.059016,0
+            -96.736809,17.059898,0
+            -96.736916,17.06078,0
+            -96.737137,17.061361,0
+            -96.737126,17.061611,0
+            -96.739324,17.061614,0
+            -96.739839,17.061455,0
+            -96.740091,17.06124,0
+            -96.7417,17.059804,0
+            -96.742952,17.058678,0
+            -96.744762,17.05708,0
+            -96.745924,17.056103,0
+            -96.746337,17.056447,0
+            -96.747013,17.056703,0
+            -96.747571,17.056549,0
+            -96.748129,17.056211,0
+            -96.748376,17.055862,0
+            -96.748934,17.054898,0
+            -96.749094,17.054713,0
+            -96.749341,17.054529,0
+            -96.749652,17.05417,0
+            -96.749953,17.05377,0
+            -96.750082,17.053524,0
+            -96.750189,17.053267,0
+            -96.750425,17.053257,0
+            -96.750661,17.053657,0
+            -96.75109,17.053739,0
+            -96.751626,17.053359,0
+            -96.75197,17.053113,0
+            -96.752152,17.052826,0
+            -96.752045,17.052354,0
+            -96.75197,17.051985,0
+            -96.752131,17.051944,0
+            -96.752474,17.052252,0
+            -96.752678,17.05258,0
+            -96.752978,17.052652,0
+            -96.753483,17.052518,0
+            -96.753611,17.052662,0
+            -96.753461,17.05299,0
+            -96.75345,17.053277,0
+            -96.753322,17.053677,0
+            -96.753386,17.053924,0
+            -96.7533,17.054057,0
+            -96.753644,17.054488,0
+            -96.753811,17.05507,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Santo Domingo Tomaltepc</name>
+        <description><![CDATA[descripción: SECUENCIA: 64<br>NUMERO: 1<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06008871<br>LONGUITUD: -96.62463344<br>unnamed (1):<br>SECUENCIA: 64.0<br>NUMERO: 1.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06008871<br>LONGUITUD: -96.62463344<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 64
+NUMERO: 1
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.06008871
+LONGUITUD: -96.62463344
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>64.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>1.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06008871</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62463344</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.624633,17.060089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guerrero</name>
+        <description><![CDATA[descripción: SECUENCIA: 65<br>NUMERO: 2<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06359878<br>LONGUITUD: -96.62309651<br>unnamed (1):<br>SECUENCIA: 65.0<br>NUMERO: 2.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06359878<br>LONGUITUD: -96.62309651<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 65
+NUMERO: 2
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.06359878
+LONGUITUD: -96.62309651
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>65.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>2.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06359878</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62309651</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.623097,17.063599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reforma</name>
+        <description><![CDATA[descripción: SECUENCIA: 66<br>NUMERO: 3<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06001921<br>LONGUITUD: -96.62334327<br>unnamed (1):<br>SECUENCIA: 66.0<br>NUMERO: 3.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.06001921<br>LONGUITUD: -96.62334327<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 66
+NUMERO: 3
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.06001921
+LONGUITUD: -96.62334327
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>66.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>3.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06001921</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.62334327</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.623343,17.060019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Nogal</name>
+        <description><![CDATA[descripción: SECUENCIA: 67<br>NUMERO: 4<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0576957<br>LONGUITUD: -96.6239153<br>unnamed (1):<br>SECUENCIA: 67.0<br>NUMERO: 4.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0576957<br>LONGUITUD: -96.6239153<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 67
+NUMERO: 4
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0576957
+LONGUITUD: -96.6239153
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>67.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>4.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0576957</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6239153</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.623915,17.057696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plazuela</name>
+        <description><![CDATA[descripción: SECUENCIA: 68<br>NUMERO: 5<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0532776<br>LONGUITUD: -96.6248065<br>unnamed (1):<br>SECUENCIA: 68.0<br>NUMERO: 5.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0532776<br>LONGUITUD: -96.6248065<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 68
+NUMERO: 5
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0532776
+LONGUITUD: -96.6248065
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>68.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>5.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0532776</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6248065</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.624806,17.053278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abetos</name>
+        <description><![CDATA[descripción: SECUENCIA: 69<br>NUMERO: 6<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0506165<br>LONGUITUD: -96.6240406<br>unnamed (1):<br>SECUENCIA: 69.0<br>NUMERO: 6.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0506165<br>LONGUITUD: -96.6240406<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 69
+NUMERO: 6
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0506165
+LONGUITUD: -96.6240406
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>69.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>6.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0506165</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6240406</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.624041,17.050616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Base el Retiro</name>
+        <description><![CDATA[descripción: SECUENCIA: 70<br>NUMERO: 7<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0497221<br>LONGUITUD: -96.6256114<br>unnamed (1):<br>SECUENCIA: 70.0<br>NUMERO: 7.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0497221<br>LONGUITUD: -96.6256114<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 70
+NUMERO: 7
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0497221
+LONGUITUD: -96.6256114
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>70.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>7.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0497221</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6256114</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.625611,17.049722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabinos</name>
+        <description><![CDATA[descripción: SECUENCIA: 71<br>NUMERO: 8<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0462782<br>LONGUITUD: -96.6257001<br>unnamed (1):<br>SECUENCIA: 71.0<br>NUMERO: 8.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0462782<br>LONGUITUD: -96.6257001<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 71
+NUMERO: 8
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0462782
+LONGUITUD: -96.6257001
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>71.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>8.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0462782</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6257001</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.6257,17.046278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COBAO 04</name>
+        <description><![CDATA[descripción: SECUENCIA: 72<br>NUMERO: 9<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0473031<br>LONGUITUD: -96.6279899<br>unnamed (1):<br>SECUENCIA: 72.0<br>NUMERO: 9.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0473031<br>LONGUITUD: -96.6279899<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 72
+NUMERO: 9
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0473031
+LONGUITUD: -96.6279899
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>72.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>9.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0473031</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6279899</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.62799,17.047303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino de la Raya</name>
+        <description><![CDATA[descripción: SECUENCIA: 73<br>NUMERO: 10<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0440812<br>LONGUITUD: -96.6306089<br>unnamed (1):<br>SECUENCIA: 73.0<br>NUMERO: 10.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0440812<br>LONGUITUD: -96.6306089<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 73
+NUMERO: 10
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0440812
+LONGUITUD: -96.6306089
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>73.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>10.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0440812</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6306089</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.630609,17.044081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hidalgo</name>
+        <description><![CDATA[descripción: SECUENCIA: 74<br>NUMERO: 11<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0445958<br>LONGUITUD: -96.6329587<br>unnamed (1):<br>SECUENCIA: 74.0<br>NUMERO: 11.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0445958<br>LONGUITUD: -96.6329587<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 74
+NUMERO: 11
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0445958
+LONGUITUD: -96.6329587
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>74.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>11.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0445958</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6329587</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.632959,17.044596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centenario</name>
+        <description><![CDATA[descripción: SECUENCIA: 75<br>NUMERO: 12<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.045168<br>LONGUITUD: -96.6359104<br>unnamed (1):<br>SECUENCIA: 75.0<br>NUMERO: 12.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.045168<br>LONGUITUD: -96.6359104<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 75
+NUMERO: 12
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.045168
+LONGUITUD: -96.6359104
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>75.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>12.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.045168</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6359104</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.63591,17.045168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arbol del Tule</name>
+        <description><![CDATA[descripción: SECUENCIA: 76<br>NUMERO: 13<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0457609<br>LONGUITUD: -96.6373982<br>unnamed (1):<br>SECUENCIA: 76.0<br>NUMERO: 13.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0457609<br>LONGUITUD: -96.6373982<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 76
+NUMERO: 13
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0457609
+LONGUITUD: -96.6373982
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>76.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>13.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0457609</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6373982</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.637398,17.045761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino del Tarrastro</name>
+        <description><![CDATA[descripción: SECUENCIA: 77<br>NUMERO: 14<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0522264<br>LONGUITUD: -96.647683<br>unnamed (1):<br>SECUENCIA: 77.0<br>NUMERO: 14.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0522264<br>LONGUITUD: -96.647683<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 77
+NUMERO: 14
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0522264
+LONGUITUD: -96.647683
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>77.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>14.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0522264</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.647683</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.647683,17.052226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino Del Rancho</name>
+        <description><![CDATA[descripción: SECUENCIA: 78<br>NUMERO: 15<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.054205<br>LONGUITUD: -96.6511995<br>unnamed (1):<br>SECUENCIA: 78.0<br>NUMERO: 15.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.054205<br>LONGUITUD: -96.6511995<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 78
+NUMERO: 15
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.054205
+LONGUITUD: -96.6511995
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>78.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>15.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.054205</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6511995</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.6512,17.054205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Base Puente Peatonal Cd. Administrativa</name>
+        <description><![CDATA[descripción: SECUENCIA: 79<br>NUMERO: 16<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0555578<br>LONGUITUD: -96.6536494<br>unnamed (1):<br>SECUENCIA: 79.0<br>NUMERO: 16.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0555578<br>LONGUITUD: -96.6536494<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 79
+NUMERO: 16
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0555578
+LONGUITUD: -96.6536494
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>79.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>16.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0555578</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6536494</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.653649,17.055558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carretera internacional 190</name>
+        <description><![CDATA[descripción: SECUENCIA: 80<br>NUMERO: 17<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05769<br>LONGUITUD: -96.65874<br>unnamed (1):<br>SECUENCIA: 80.0<br>NUMERO: 17.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05769<br>LONGUITUD: -96.65874<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 80
+NUMERO: 17
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05769
+LONGUITUD: -96.65874
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>80.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>17.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05769</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.65874</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.65874,17.05769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espino Redondo</name>
+        <description><![CDATA[descripción: SECUENCIA: 81<br>NUMERO: 18<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05675<br>LONGUITUD: -96.66205<br>unnamed (1):<br>SECUENCIA: 81.0<br>NUMERO: 18.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05675<br>LONGUITUD: -96.66205<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 81
+NUMERO: 18
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05675
+LONGUITUD: -96.66205
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>81.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>18.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05675</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.66205</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.66205,17.05675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Del Arenal</name>
+        <description><![CDATA[descripción: SECUENCIA: 82<br>NUMERO: 19<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.05841<br>LONGUITUD: -96.66772<br>unnamed (1):<br>SECUENCIA: 82.0<br>NUMERO: 19.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.05841<br>LONGUITUD: -96.66772<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 82
+NUMERO: 19
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.05841
+LONGUITUD: -96.66772
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>82.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>19.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05841</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.66772</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.66772,17.05841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1ra Priv de Avenida Ferrocarril</name>
+        <description><![CDATA[descripción: SECUENCIA: 83<br>NUMERO: 20<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05803<br>LONGUITUD: -96.67017<br>unnamed (1):<br>SECUENCIA: 83.0<br>NUMERO: 20.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05803<br>LONGUITUD: -96.67017<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 83
+NUMERO: 20
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05803
+LONGUITUD: -96.67017
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>83.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>20.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05803</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67017</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67017,17.05803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constitución</name>
+        <description><![CDATA[descripción: SECUENCIA: 84<br>NUMERO: 21<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05742<br>LONGUITUD: -96.67274<br>unnamed (1):<br>SECUENCIA: 84.0<br>NUMERO: 21.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05742<br>LONGUITUD: -96.67274<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 84
+NUMERO: 21
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05742
+LONGUITUD: -96.67274
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>84.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>21.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05742</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67274</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67274,17.05742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>De Morelos</name>
+        <description><![CDATA[descripción: SECUENCIA: 85<br>NUMERO: 22<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05726<br>LONGUITUD: -96.6767<br>unnamed (1):<br>SECUENCIA: 85.0<br>NUMERO: 22.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05726<br>LONGUITUD: -96.6767<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 85
+NUMERO: 22
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05726
+LONGUITUD: -96.6767
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>85.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>22.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05726</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6767</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.6767,17.05726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino del Anonal</name>
+        <description><![CDATA[descripción: SECUENCIA: 86<br>NUMERO: 23<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05731<br>LONGUITUD: -96.67882<br>unnamed (1):<br>SECUENCIA: 86.0<br>NUMERO: 23.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05731<br>LONGUITUD: -96.67882<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 86
+NUMERO: 23
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05731
+LONGUITUD: -96.67882
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>86.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>23.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05731</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.67882</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.67882,17.05731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz del Camino</name>
+        <description><![CDATA[descripción: SECUENCIA: 87<br>NUMERO: 24<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0568976<br>LONGUITUD: -96.681166<br>unnamed (1):<br>SECUENCIA: 87.0<br>NUMERO: 24.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0568976<br>LONGUITUD: -96.681166<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 87
+NUMERO: 24
+SENTIDO: REGRESO
+CONEXIÓN: RA04
+LATITUD: 17.0568976
+LONGUITUD: -96.681166
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>87.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>24.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0568976</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.681166</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.681166,17.056898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corintios</name>
+        <description><![CDATA[descripción: SECUENCIA: 88<br>NUMERO: 25<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05701088<br>LONGUITUD: -96.68368974<br>unnamed (1):<br>SECUENCIA: 88.0<br>NUMERO: 25.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC12<br>LATITUD: 17.05701088<br>LONGUITUD: -96.68368974<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 88
+NUMERO: 25
+SENTIDO: REGRESO
+CONEXIÓN: RC12
+LATITUD: 17.05701088
+LONGUITUD: -96.68368974
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>88.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>25.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC12</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05701088</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68368974</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.68369,17.057011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacio Municipal de Santa Cruz</name>
+        <description><![CDATA[descripción: SECUENCIA: 89<br>NUMERO: 26<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0589252<br>LONGUITUD: -96.68352326<br>unnamed (1):<br>SECUENCIA: 89.0<br>NUMERO: 26.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0589252<br>LONGUITUD: -96.68352326<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 89
+NUMERO: 26
+SENTIDO: REGRESO
+CONEXIÓN: RA04
+LATITUD: 17.0589252
+LONGUITUD: -96.68352326
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>89.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>26.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0589252</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68352326</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.683523,17.058925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicente Guerrero</name>
+        <description><![CDATA[descripción: SECUENCIA: 90<br>NUMERO: 27<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0610359<br>LONGUITUD: -96.6825621<br>unnamed (1):<br>SECUENCIA: 90.0<br>NUMERO: 27.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0610359<br>LONGUITUD: -96.6825621<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 90
+NUMERO: 27
+SENTIDO: REGRESO
+CONEXIÓN: RA04
+LATITUD: 17.0610359
+LONGUITUD: -96.6825621
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>90.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>27.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0610359</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6825621</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.682562,17.061036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Independencia</name>
+        <description><![CDATA[descripción: SECUENCIA: 91<br>NUMERO: 28<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0637434<br>LONGUITUD: -96.6816607<br>unnamed (1):<br>SECUENCIA: 91.0<br>NUMERO: 28.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.0637434<br>LONGUITUD: -96.6816607<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 91
+NUMERO: 28
+SENTIDO: REGRESO
+CONEXIÓN: RA04
+LATITUD: 17.0637434
+LONGUITUD: -96.6816607
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>91.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>28.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0637434</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6816607</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.681661,17.063743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Raya</name>
+        <description><![CDATA[descripción: SECUENCIA: 92<br>NUMERO: 29<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.06417<br>LONGUITUD: -96.68659<br>unnamed (1):<br>SECUENCIA: 92.0<br>NUMERO: 29.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04<br>LATITUD: 17.06417<br>LONGUITUD: -96.68659<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 92
+NUMERO: 29
+SENTIDO: REGRESO
+CONEXIÓN: RA04
+LATITUD: 17.06417
+LONGUITUD: -96.68659
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>92.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>29.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06417</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.68659</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.68659,17.06417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Diego de lo Hornos</name>
+        <description><![CDATA[descripción: SECUENCIA: 93<br>NUMERO: 30<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.0644065<br>LONGUITUD: -96.6888875<br>unnamed (1):<br>SECUENCIA: 93.0<br>NUMERO: 30.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.0644065<br>LONGUITUD: -96.6888875<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 93
+NUMERO: 30
+SENTIDO: REGRESO
+CONEXIÓN: RA04,RC14
+LATITUD: 17.0644065
+LONGUITUD: -96.6888875
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>93.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>30.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0644065</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.6888875</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.688888,17.064406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CBTis 123</name>
+        <description><![CDATA[descripción: SECUENCIA: 94<br>NUMERO: 31<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.06473<br>LONGUITUD: -96.69146<br>unnamed (1):<br>SECUENCIA: 94.0<br>NUMERO: 31.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA04,RC14<br>LATITUD: 17.06473<br>LONGUITUD: -96.69146<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 94
+NUMERO: 31
+SENTIDO: REGRESO
+CONEXIÓN: RA04,RC14
+LATITUD: 17.06473
+LONGUITUD: -96.69146
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>94.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>31.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA04,RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06473</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69146</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69146,17.06473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siracuza</name>
+        <description><![CDATA[descripción: SECUENCIA: 95<br>NUMERO: 32<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06484<br>LONGUITUD: -96.69383<br>unnamed (1):<br>SECUENCIA: 95.0<br>NUMERO: 32.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06484<br>LONGUITUD: -96.69383<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 95
+NUMERO: 32
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.06484
+LONGUITUD: -96.69383
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>95.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>32.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06484</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69383</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69383,17.06484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabinos</name>
+        <description><![CDATA[descripción: SECUENCIA: 96<br>NUMERO: 33<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0647406<br>LONGUITUD: -96.697268<br>unnamed (1):<br>SECUENCIA: 96.0<br>NUMERO: 33.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0647406<br>LONGUITUD: -96.697268<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 96
+NUMERO: 33
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.0647406
+LONGUITUD: -96.697268
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>96.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>33.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0647406</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.697268</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.697268,17.064741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paraíso</name>
+        <description><![CDATA[descripción: SECUENCIA: 97<br>NUMERO: 34<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0646<br>LONGUITUD: -96.69997<br>unnamed (1):<br>SECUENCIA: 97.0<br>NUMERO: 34.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0646<br>LONGUITUD: -96.69997<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 97
+NUMERO: 34
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.0646
+LONGUITUD: -96.69997
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>97.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>34.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0646</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.69997</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69997,17.0646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16 de Septiembre</name>
+        <description><![CDATA[descripción: SECUENCIA: 98<br>NUMERO: 35<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.064197<br>LONGUITUD: -96.701998<br>unnamed (1):<br>SECUENCIA: 98.0<br>NUMERO: 35.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.064197<br>LONGUITUD: -96.701998<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 98
+NUMERO: 35
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.064197
+LONGUITUD: -96.701998
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>98.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>35.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.064197</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.701998</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.701998,17.064197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guelatao</name>
+        <description><![CDATA[descripción: SECUENCIA: 99<br>NUMERO: 36<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0634<br>LONGUITUD: -96.70592<br>unnamed (1):<br>SECUENCIA: 99.0<br>NUMERO: 36.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0634<br>LONGUITUD: -96.70592<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 99
+NUMERO: 36
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.0634
+LONGUITUD: -96.70592
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>99.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>36.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0634</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.70592</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.70592,17.0634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3 Norte</name>
+        <description><![CDATA[descripción: SECUENCIA: 100<br>NUMERO: 37<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0627498<br>LONGUITUD: -96.7085167<br>unnamed (1):<br>SECUENCIA: 100.0<br>NUMERO: 37.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0627498<br>LONGUITUD: -96.7085167<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 100
+NUMERO: 37
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.0627498
+LONGUITUD: -96.7085167
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>100.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>37.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0627498</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7085167</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.708517,17.06275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 de Febrero</name>
+        <description><![CDATA[descripción: SECUENCIA: 101<br>NUMERO: 38<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06189<br>LONGUITUD: -96.71138<br>unnamed (1):<br>SECUENCIA: 101.0<br>NUMERO: 38.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06189<br>LONGUITUD: -96.71138<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 101
+NUMERO: 38
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.06189
+LONGUITUD: -96.71138
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>101.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>38.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06189</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71138</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71138,17.06189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Galeana</name>
+        <description><![CDATA[descripción: SECUENCIA: 102<br>NUMERO: 39<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06102<br>LONGUITUD: -96.71488<br>unnamed (1):<br>SECUENCIA: 102.0<br>NUMERO: 39.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06102<br>LONGUITUD: -96.71488<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 102
+NUMERO: 39
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.06102
+LONGUITUD: -96.71488
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>102.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>39.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06102</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71488</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71488,17.06102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Insurgentes</name>
+        <description><![CDATA[descripción: SECUENCIA: 103<br>NUMERO: 40<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06136<br>LONGUITUD: -96.71681<br>unnamed (1):<br>SECUENCIA: 103.0<br>NUMERO: 40.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.06136<br>LONGUITUD: -96.71681<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 103
+NUMERO: 40
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.06136
+LONGUITUD: -96.71681
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>103.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>40.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06136</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.71681</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.71681,17.06136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>José María Pino Suárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 104<br>NUMERO: 41<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0620449<br>LONGUITUD: -96.7202902<br>unnamed (1):<br>SECUENCIA: 104.0<br>NUMERO: 41.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC14<br>LATITUD: 17.0620449<br>LONGUITUD: -96.7202902<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 104
+NUMERO: 41
+SENTIDO: REGRESO
+CONEXIÓN: RC14
+LATITUD: 17.0620449
+LONGUITUD: -96.7202902
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>104.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>41.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC14</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0620449</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7202902</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72029,17.062045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. de la Independencia</name>
+        <description><![CDATA[descripción: SECUENCIA: 105<br>NUMERO: 42<br>SENTIDO: REGRESO<br>CONEXIÓN: RC13,RC15,RA08<br>LATITUD: 17.06142<br>LONGUITUD: -96.72164<br>unnamed (1):<br>SECUENCIA: 105.0<br>NUMERO: 42.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC13,RC15,RA08<br>LATITUD: 17.06142<br>LONGUITUD: -96.72164<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 105
+NUMERO: 42
+SENTIDO: REGRESO
+CONEXIÓN: RC13,RC15,RA08
+LATITUD: 17.06142
+LONGUITUD: -96.72164
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>105.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>42.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC13,RC15,RA08</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06142</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72164</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72164,17.06142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicente Guerrero</name>
+        <description><![CDATA[descripción: SECUENCIA: 106<br>NUMERO: 43<br>SENTIDO: REGRESO<br>CONEXIÓN: RC13,RC15.RA08<br>LATITUD: 17.05953<br>LONGUITUD: -96.72207<br>unnamed (1):<br>SECUENCIA: 106.0<br>NUMERO: 43.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RC13,RC15.RA08<br>LATITUD: 17.05953<br>LONGUITUD: -96.72207<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 106
+NUMERO: 43
+SENTIDO: REGRESO
+CONEXIÓN: RC13,RC15.RA08
+LATITUD: 17.05953
+LONGUITUD: -96.72207
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>106.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>43.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RC13,RC15.RA08</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05953</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72207</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72207,17.05953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manuel Fernandez</name>
+        <description><![CDATA[descripción: SECUENCIA: 107<br>NUMERO: 44<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.05872<br>LONGUITUD: -96.72307<br>unnamed (1):<br>SECUENCIA: 107.0<br>NUMERO: 44.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.05872<br>LONGUITUD: -96.72307<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 107
+NUMERO: 44
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.05872
+LONGUITUD: -96.72307
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>107.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>44.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05872</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72307</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72307,17.05872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flores Magon</name>
+        <description><![CDATA[descripción: SECUENCIA: 108<br>NUMERO: 45<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.05933<br>LONGUITUD:  -96.72604<br>unnamed (1):<br>SECUENCIA: 108.0<br>NUMERO: 45.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.05933<br>LONGUITUD:  -96.72604<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 108
+NUMERO: 45
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.05933
+LONGUITUD:  -96.72604
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>108.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>45.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05933</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value> -96.72604</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72604,17.05933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diaz Ordaz</name>
+        <description><![CDATA[descripción: SECUENCIA: 109<br>NUMERO: 46<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA04,RA07,RA11,RC06<br>LATITUD: 17.05992<br>LONGUITUD: -96.72887<br>unnamed (1):<br>SECUENCIA: 109.0<br>NUMERO: 46.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA04,RA07,RA11,RC06<br>LATITUD: 17.05992<br>LONGUITUD: -96.72887<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 109
+NUMERO: 46
+SENTIDO: REGRESO
+CONEXIÓN: RA02,RA04,RA07,RA11,RC06
+LATITUD: 17.05992
+LONGUITUD: -96.72887
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>109.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>46.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02,RA04,RA07,RA11,RC06</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05992</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.72887</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.72887,17.05992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guadalupe Victoria</name>
+        <description><![CDATA[descripción: SECUENCIA: 110<br>NUMERO: 47<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA04,RA07,RA11,RA14,RC06,RC09,RC10<br>LATITUD: 17.060573<br>LONGUITUD: -96.732024<br>unnamed (1):<br>SECUENCIA: 110.0<br>NUMERO: 47.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA04,RA07,RA11,RA14,RC06,RC09,RC10<br>LATITUD: 17.060573<br>LONGUITUD: -96.732024<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 110
+NUMERO: 47
+SENTIDO: REGRESO
+CONEXIÓN: RA02,RA04,RA07,RA11,RA14,RC06,RC09,RC10
+LATITUD: 17.060573
+LONGUITUD: -96.732024
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>110.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>47.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02,RA04,RA07,RA11,RA14,RC06,RC09,RC10</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.060573</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.732024</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.732024,17.060573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Abastos</name>
+        <description><![CDATA[descripción: SECUENCIA: 111<br>NUMERO: 48<br>SENTIDO: REGRESO<br>CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.05975636<br>LONGUITUD: -96.73532958<br>unnamed (1):<br>SECUENCIA: 111.0<br>NUMERO: 48.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.05975636<br>LONGUITUD: -96.73532958<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 111
+NUMERO: 48
+SENTIDO: REGRESO
+CONEXIÓN: RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16
+LATITUD: 17.05975636
+LONGUITUD: -96.73532958
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>111.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>48.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA01,RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05975636</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.73532958</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.73533,17.059756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Valerio Trujano</name>
+        <description><![CDATA[descripción: SECUENCIA: 112<br>NUMERO: 49<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.06151516<br>LONGUITUD: -96.73708766<br>unnamed (1):<br>SECUENCIA: 112.0<br>NUMERO: 49.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.06151516<br>LONGUITUD: -96.73708766<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 112
+NUMERO: 49
+SENTIDO: REGRESO
+CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16
+LATITUD: 17.06151516
+LONGUITUD: -96.73708766
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>112.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>49.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06151516</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.73708766</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.737088,17.061515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sierra Juárez</name>
+        <description><![CDATA[descripción: SECUENCIA: 113<br>NUMERO: 50<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.06128849<br>LONGUITUD: -96.74007226<br>unnamed (1):<br>SECUENCIA: 113.0<br>NUMERO: 50.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16<br>LATITUD: 17.06128849<br>LONGUITUD: -96.74007226<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 113
+NUMERO: 50
+SENTIDO: REGRESO
+CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16
+LATITUD: 17.06128849
+LONGUITUD: -96.74007226
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>113.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>50.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.06128849</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.74007226</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.740072,17.061288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Mexicapam</name>
+        <description><![CDATA[descripción: SECUENCIA: 114<br>NUMERO: 51<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16,RA18<br>LATITUD: 17.05876255<br>LONGUITUD: -96.74290511<br>unnamed (1):<br>SECUENCIA: 114.0<br>NUMERO: 51.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16,RA18<br>LATITUD: 17.05876255<br>LONGUITUD: -96.74290511<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 114
+NUMERO: 51
+SENTIDO: REGRESO
+CONEXIÓN: RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16,RA18
+LATITUD: 17.05876255
+LONGUITUD: -96.74290511
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>114.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>51.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA02,RA06,RA07,RA10,RA11,RA14,RA15,RA16,RA18</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.05876255</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.74290511</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.742905,17.058763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arrabio</name>
+        <description><![CDATA[descripción: SECUENCIA: 115<br>NUMERO: 52<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0563976<br>LONGUITUD: -96.745539<br>unnamed (1):<br>SECUENCIA: 115.0<br>NUMERO: 52.0<br>SENTIDO: REGRESO<br>CONEXIÓN: <br>LATITUD: 17.0563976<br>LONGUITUD: -96.745539<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 115
+NUMERO: 52
+SENTIDO: REGRESO
+CONEXIÓN: 
+LATITUD: 17.0563976
+LONGUITUD: -96.745539
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>115.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>52.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value/>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0563976</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.745539</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.745539,17.056398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leovaa</name>
+        <description><![CDATA[descripción: SECUENCIA: 116<br>NUMERO: 53<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0555355<br>LONGUITUD: -96.7485454<br>unnamed (1):<br>SECUENCIA: 116.0<br>NUMERO: 53.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0555355<br>LONGUITUD: -96.7485454<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 116
+NUMERO: 53
+SENTIDO: REGRESO
+CONEXIÓN: RA17
+LATITUD: 17.0555355
+LONGUITUD: -96.7485454
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>116.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>53.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0555355</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7485454</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.748545,17.055536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farmacias Bienestar San Martin</name>
+        <description><![CDATA[descripción: SECUENCIA: 117<br>NUMERO: 54<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.053342<br>LONGUITUD: -96.7503134<br>unnamed (1):<br>SECUENCIA: 117.0<br>NUMERO: 54.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.053342<br>LONGUITUD: -96.7503134<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 117
+NUMERO: 54
+SENTIDO: REGRESO
+CONEXIÓN: RA17
+LATITUD: 17.053342
+LONGUITUD: -96.7503134
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>117.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>54.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.053342</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7503134</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.750313,17.053342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Razas</name>
+        <description><![CDATA[descripción: SECUENCIA: 118<br>NUMERO: 55<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0526573<br>LONGUITUD: -96.7534686<br>unnamed (1):<br>SECUENCIA: 118.0<br>NUMERO: 55.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0526573<br>LONGUITUD: -96.7534686<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 118
+NUMERO: 55
+SENTIDO: REGRESO
+CONEXIÓN: RA17
+LATITUD: 17.0526573
+LONGUITUD: -96.7534686
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>118.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>55.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0526573</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7534686</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.753469,17.052657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Base Colonia Monte Albán</name>
+        <description><![CDATA[descripción: SECUENCIA: 119<br>NUMERO: 56<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0549548<br>LONGUITUD: -96.7537689<br>unnamed (1):<br>SECUENCIA: 119.0<br>NUMERO: 56.0<br>SENTIDO: REGRESO<br>CONEXIÓN: RA17<br>LATITUD: 17.0549548<br>LONGUITUD: -96.7537689<br>unnamed (1): ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>SECUENCIA: 119
+NUMERO: 56
+SENTIDO: REGRESO
+CONEXIÓN: RA17
+LATITUD: 17.0549548
+LONGUITUD: -96.7537689
+unnamed (1):</value>
+          </Data>
+          <Data name="SECUENCIA">
+            <value>119.0</value>
+          </Data>
+          <Data name="NUMERO">
+            <value>56.0</value>
+          </Data>
+          <Data name="SENTIDO">
+            <value>REGRESO</value>
+          </Data>
+          <Data name="CONEXIÓN">
+            <value>RA17</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>17.0549548</value>
+          </Data>
+          <Data name="LONGUITUD">
+            <value>-96.7537689</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.753769,17.054955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
