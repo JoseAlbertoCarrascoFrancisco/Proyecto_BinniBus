@@ -1,0 +1,45 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+R01_0,1,R01,Centro → Salinas (Escolleras),3,945A31
+R02_0,1,R02,Centro → Primero de Mayo,3,70B2E3
+R03_0,1,R03,Centro → Liverpool,3,7E858A
+R04_0,1,R04,Centro → Lombardo,3,E4821E
+R05_0,1,R05,Centro → San Pablo Norte,3,C22922
+R06_0,1,R06,Centro → Jesús Rasgagrdo,3,E4821E
+R08_0,1,R08,Centro → Barrio Juárez (escuela),3,70B2E3
+R09_0,1,R09,Centro → Francisco I. Madero,3,E9C01C
+R10_0,1,R10,Centro → H. Poniente (5 de diciembre),3,E4821E
+R11_0,1,R11,Centro → Refinería,3,D26EB7
+R12_0,1,R12,Centro → Cerro Alto,3,C22922
+R13_0,1,R13,Centro → 5 de febrero,3,C22922
+R14_0,1,R14,Centro → San Martín (parte baja) - Soledad Boca del Río,3,93BA2C
+R15_0,1,R15,Centro → Juquilita,3,70B2E3
+R17_0,1,R17,Centro → San Juan,3,3D6D31
+R19_0,1,R19,Centro → Las Pilas,3,945A31
+R20_0,1,R20,Centro → El Roble,3,945A31
+R21_0,1,R21,Centro → Petrolera,3,70B2E3
+R24_0,1,R24,Centro → Ventosa,3,93BA2C
+R25_0,1,R25,Centro → Hidalgo Poniente (Calle Puebla),3,E4821E
+R26_0,1,R26,Centro → Porfirio Díaz,3,5D22A6
+R27_0,1,R27,Centro → Hidalgo Poniente (Calle Chiapas),3,E4821E
+R01_1,1,R01,Salinas (Escolleras) → Centro,3,945A31
+R02_1,1,R02,Primero de Mayo → Centro,3,70B2E3
+R03_1,1,R03,Liverpool → Centro,3,7E858A
+R04_1,1,R04,Lombardo → Centro,3,E4821E
+R05_1,1,R05,San Pablo Norte → Centro,3,C22922
+R06_1,1,R06,Jesús Rasgagrdo → Centro,3,E4821E
+R08_1,1,R08,Barrio Juárez (Escuela) → Centro,3,70B2E3
+R09_1,1,R09,Francisco I. Madero → Centro,3,F2CB30
+R10_1,1,R10,H. Poniente (5 de Diciembre) → Centro,3,E4821E
+R11_1,1,R11,Refinería → Centro,3,D26EB7
+R12_1,1,R12,Cerro Alto → Centro,3,C22922
+R13_1,1,R13,5 de febrero → Centro,3,C22922
+R14_1,1,R14,San Martín (parte baja) - Soledad Boca del Río → Centro,3,93BA2C
+R15_1,1,R15,Juquilita → Centro,3,70B2E3
+R17_1,1,R17,San Juan → Centro,3,3D6D31
+R19_1,1,R19,Las Pilas → Centro,3,945A31
+R20_1,1,R20,El Roble → Centro,3,945A31
+R21_1,1,R21,Petrolera → Centro,3,70B2E3
+R24_1,1,R24,Ventosa → Centro,3,93BA2C
+R25_1,1,R25,Hidalgo Poniente (Calle Puebla) → Centro,3,E4821E
+R26_1,1,R26,Porfirio Díaz → Centro,3,5D22A6
+R27_1,1,R27,Hidalgo Poniente (Calle Chiapas) → Centro,3,E4821E

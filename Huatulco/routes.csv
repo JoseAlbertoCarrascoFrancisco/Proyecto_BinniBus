@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+Ruta01,1,H3,Bahía de Santa Cruz Huatulco - Sector H-Tres,3,1A73E8
+Ruta02,1,U2,Bahía de Santa Cruz Huatulco - Sector U-Dos,3,D81B1B
+Ruta03,1,SMH,Bahía de Santa Cruz Huatulco - Santa María Huatulco,3,2E7D32

@@ -1,0 +1,4 @@
+organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
+OpenStreetMap contributors,1,0,0,https://www.openstreetmap.org/copyright,,
+Codeando México,1,0,0,https://codeandomexico.org,oscar@codeandomexico.org,
+Secretaría de Movilidad del Estado de Oaxaca,0,0,1,https://www.oaxaca.gob.mx/semovi/,alexruiz.semovioaxaca@gmail.com,
