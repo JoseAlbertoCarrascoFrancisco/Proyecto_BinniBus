@@ -25,6 +25,7 @@ RC03,1,RC03,RC-03 NISA: San Felipe del Agua – Plaza del Valle,3,BB4639
 RC04,1,RC04,RC-04 ATLANTEKOMATL: Fracc. Benito Juárez/Esmeralda – Plaza del Valle,3,7AA2C1
 RC05,1,RC05,RC-05 XUUJX: Viguera / Los Ángeles – Jardín Madero (Centro),3,287B71
 RC06,1,RC06,RC-06 Mondok: Base San Jacinto Amilpas - De Azucena Camino a Huayápam,3,2D519F
+RC07,1,RC07,RC-07 VITÚ VIÍ: Colonia Monte Bello – Monumento a Juárez Santa Cruz Xoxocotlán,3,1873A5
 RC08,1,RC08,RC-08 RUJA: Colonia Jardín – Colonia Heladio Ramírez López,3,BB5817
 RC09,1,RC09,RC-09 Kítsian Jan: Colonia Bugambilias – Fraccionamiento El Rosario,3,10AFA5
 RC10,1,RC10,RC-10 Kaimo: Manzana L – Ánimas Trujano,3,17738D
