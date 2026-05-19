@@ -151,6 +151,40 @@
         <styleUrl>#icon-1532-7CB342-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1532-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-0288D1-6000-nodesc-normal">
       <LineStyle>
         <color>ffd18802</color>
@@ -338,7 +372,7 @@
       <Placemark>
         <name><![CDATA[YUROO PARQUE DEL AMOR "LADXIDÓ"]]></name>
         <description>17.050545 -96.729255</description>
-        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <styleUrl>#icon-1532-DB4436</styleUrl>
         <Point>
           <coordinates>
             -96.729255,17.050545,0
@@ -577,7 +611,7 @@
       <Placemark>
         <name>De Azucena</name>
         <description>17.0842509	-96.6578959</description>
-        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <styleUrl>#icon-1532-DB4436</styleUrl>
         <Point>
           <coordinates>
             -96.657896,17.084251,0
