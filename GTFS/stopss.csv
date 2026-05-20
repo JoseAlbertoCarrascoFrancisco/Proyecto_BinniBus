@@ -27,7 +27,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 138,Carretera Federal Oaxaca - Tuxtepec - Libertad,,17.075745,-96.667264,,
 139,Terminal ADO,,17.070884,-96.7164,0,
 
-
 152,Carretera Panamericana 190 - Cuauhtémoc,,17.082682,-96.74352,0,
 153,Carretera Panamericana 190 - 8 Norte,,17.087391,-96.74551,0,
 154,Carretera Panamericana 190 - Abraham Castellanos,,17.099211,-96.750644,0,
@@ -172,13 +171,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 300,Bodega Aurrera - San Agustín de las Juntas,,17.006663,-96.712762,0,
 301,Avenida Símbolos Patrios - Vega,,17.01005,-96.71268,0,
 302,Avenida Símbolos Patrios - Porfirio Díaz,,17.01176,-96.71261,0,
-303,Abarrotes la Soledad,,17.01528,-96.71205,0,
-304,Avenida Símbolos Patrios - Gasolinera Pemex,,17.01907,-96.71107,0,
-305,Avenida Símbolos Patrios - Quinta Privada de Pinos,,17.02089,-96.71063,0,
-306,Crucero La Experimental,,17.02438,-96.70996,0,
-307,Avenida Símbolos Patrios - Río Salado,,17.02898,-96.71058,0,
-308,Avenida Símbolos Patrios - La Proovedora,,17.0308,-96.71183,0,
-309,Avenida Símbolos Patrios - Carlos Gracida,,17.03311,-96.71346,0,
+
 310,Avenida Símbolos Patrios - Emiliano Zapata,,17.03919,-96.7178,0,
 311,Avenida Símbolos Patrios - La luz,,17.04267,-96.72027,0,
 312,Avenida Símbolos Patrios - Puerto Márquez,,17.04544,-96.72228,0,
@@ -188,8 +181,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 316,Carlos María Bustamante - Ignacio Zaragoza,,17.05613,-96.72579,0,
 317,Francisco Javier Mina - 20 De Noviembre,,17.0576,-96.7273,0,
 318,Díaz Ordáz - Las Casas,,17.05966,-96.72901,0,
-
-
 
 331,Avenida México 68 - Avenida de las Etnias,,17.08756,-96.71465,0,
 332,Base BinniBus Módulo Azul,,17.086399,-96.712365,0,
@@ -239,13 +230,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 386,Oaxaca - Puerto Escondido - Escuela Narcizo Mendoza,,16.918606,-96.714426,0,
 387,Oaxaca - Puerto Escondido - Puerta 2 Ciudad Judicial,,16.914812,-96.718964,0,
 388,Oaxaca - Puerto Escondido - Puerta 1 Ciudad Judicial,,16.911263,-96.724322,0,
-389,Avenida Universidad - Calasanz,,17.035725,-96.71215,0,
-390,Avenida Universidad - KFC,,17.040105,-96.711449,0,
-391,Plaza Oaxaca,,17.043205,-96.713851,0,
-392,Facultad de Arquitectura,,17.046494,-96.713895,0,
-393,Facultad de Enfermeria,,17.048614,-96.713616,0,
-394,Avenida Universidad - Rectoria,,17.050926,-96.713288,0,
-395,Crucero 5 Señores - Avenida Ferrocarril,,17.053621,-96.712837,0,
+
 396,Periférico - Miguel Cabrera,,17.050438,-96.728004,0,
 397,Parque Primavera Oaxaqueña,,17.049595,-96.731289,0,
 398,Antigua Carretera a Monte Albán - Privada de Cuauhtémoc,,17.050939,-96.733995,0,
@@ -429,20 +414,11 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 585,Unidad Deportiva el Tequio 1,,16.9975081,-96.7194863,0,
 586,Escuela Oficial Rayados Oaxaca,,16.999157,-96.718997,0,
 587,Aeropuerto,,17.0009486,-96.7184756,0,
-588,Plaza del Valle - Sam´s,,17.038562,-96.710584,0,
-589,Heróico Colegio Militar - Primera Privada de Amapolas,,17.07103821,-96.7134353,0,
-590,Almendros - Heróico Colegio Militar,,17.07274482,-96.7132091,0,
-591,Avenida Belisario Domínguez - Avenida Heróico Colegio Militar,,17.07485836,-96.71295971,0,
-592,Sabinos - Avenida Heróico Colegio Militar,,17.076944,-96.712619,0,
-593,Avenida Fuerza Aérea Mexicana - Avenida Heróico Colegio Militar,,17.080284,-96.712158,0,
-594,Estebán Baca Calderón - Avenida Heróico Colegio Militar,,17.083059,-96.711826,0,
-595,Base BinniBus Módulo Azul,,17.08593617,-96.71149728,0,
+
 597,Hierro - Calzada Valerio Trujano,,17.05628,-96.745682,0,
 
 603,Cristóbal Colón-  Xicoténcatl,,17.058324,-96.721121,0,
 604,Avenida Miguel Hidalgo - Xicoténcatl,,17.059934,-96.720881,0,
-
-
 
 620,Arrabio - Calzada Valerio Trujano,,17.056398,-96.745539,0,
 621,Base BinniBus Manzana L,,17.10894,-96.74516,0,
@@ -472,13 +448,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 645,General Antonio de León - Indio Nuyoo,,17.0718346,-96.7584962,0,
 646,Parque Centenario Montoya,,17.0720912,-96.7574954,0,
 647,Ignacio Bernal - Los Duarte,,17.0736826,-96.7573406,0,
-
-658,Volcán Fuego - Proletariado Mexicano,,17.08927299,-96.70990646,0,
-659,Pico de Orizaba - Zempoaltépetl,,17.09294395,-96.70805327,0,
-660,Cofre de Perote - Seconusco,,17.0944257,-96.70650033,0,
-661,Volcán de Tataná - Seconusco,,17.09305285,-96.7036654,0,
-662,Laureles - Carretera a San Luis Beltrán,,17.09293003,-96.70023405,0,
-
 
 674,Lima - Benito Juárez,,17.0711466,-96.7566266,0,
 675,Margarita Maza - Benito Juárez,,17.0704037,-96.7591277,0,
@@ -589,10 +558,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 829,Abraham Castellanos - Carretera Panamericana 190,,17.0995149,-96.7504591,0,
 830,7 de Enero - Avenida Heróico Colegio Militar,,17.08137074,-96.71203533,0,
 
-
-
-
-
 881,Hortencias - Carretera a San Luis Beltrán,,17.096628,-96.696543,0,
 882,Camino Real - Carretera a San Luis Beltrán,,17.097757,-96.695416,0,
 883,Reforma - Carretera a San Luis Beltrán,,17.09934,-96.696192,0,
@@ -623,7 +588,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 908,Sabino Crespo - Avenida San Isidro,,16.999637,-96.758564,0,
 909,Base BinniBus CRIT,,16.997046,-96.756596,0,
 910,Universidad Anáhuac,,16.99694,-96.753051,0,
-911,CRIT,,16.997168,-96.755658,0,
 912,Tanque Elevado,,16.999438,-96.758532,0,
 913,La Soledad - Avenida San Isidro,,17.002657,-96.759799,0,
 914,Enrique Rébsamen - Camino a Cuilápam de Guerrero,,17.005696,-96.76179,0,
@@ -644,37 +608,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 929,Hospital ISSSTE,,17.084414,-96.722056,0,
 930,Marcos Pérez - Avenida Félix Romero,,17.083435,-96.723495,0,
 931,Ignacio Mariscal - Marcos Pérez,,17.082845,-96.723742,0,
-932,Base BinniBus San Martín,,17.0596821,-96.7537492,0,
-933,Guillermo Prieto - Plan de Ayutla,,17.0618087,-96.7531884,0,
-934,Morelos - Avenida Oaxaca,,17.0632313,-96.7517123,0,
-935,Avenida Itandehui - Avenida Oaxaca,,17.0642436,-96.7501801,0,
-936,Niquel - 7 de Enero,,17.08126,-96.7102738,0,
-937,7 de Enero - Escuadrón 201,,17.0808068,-96.706509,0,
-938,Escuadrón 201 - Avenida Fuerza Aérea Mexicana,,17.0799217,-96.70627,0,
-939,Primero de Mayo - Avenida Fuerza Aérea Mexicana,,17.079429,-96.7051238,0,
-940,Orquídeas - Avenida Fuerza Aérea Mexicana,,17.0791621,-96.7033864,0,
-941,Sauces - Orquídeas,,17.0802969,-96.7029295,0,
-942,Río Verde - Sauces,,17.0818002,-96.7027271,0,
-943,Río Grijalva - Río Verde,,17.0819682,-96.7000374,0,
-944,Avenida Central Oriente Poniente - Río Grijalva,,17.0832938,-96.6999151,0,
-945,Regeneracón - Avenida Central Oriente Poniente,,17.08349256,-96.69851206,0,
-946,Avenida Central Norte Sur - Avenida Central Oriente Poniente,,17.0838257,-96.69705,0,
-947,Avenida Oriente - Avenida Central Oriente Poniente,,17.0843863,-96.6943533,0,
-948,Base BinniBus Primera Etapa,,17.08653,-96.6939039,0,
-949,La República - Avenida Central Oriente Poniente,,17.0844687,-96.6943555,0,
-950,Central Sur - Avenida Central Oriente Poniente,,17.0840487,-96.696718,0,
-951,Mercado Flores Magón - Avenida Central Oriente Poniente,,17.083639,-96.698431,0,
-952,Parlamento - Avenida Central Oriente Poniente,,17.0836629,-96.6996105,0,
-953,Río Grijalva - Río Verde,,17.0821726,-96.6998585,0,
-954,Río Verde - Orquídeas,,17.0820131,-96.702572,0,
-955,Sauces - Orquídeas,,17.080475,-96.7030372,0,
-956,Orquídeas - Avenida Fuerza Aérea Mexicana,,17.0796239,-96.7030992,0,
-957,Escuadrón 201 - Avenida Fuerza Aérea Mexicana,,17.0796979,-96.7060431,0,
-958,Violetas - Escuadrón 201,,17.080149,-96.7097994,0,
-959,Jazmines - Avenida Heróico Colegio Militar,,17.0799923,-96.7124037,0,
-960,Avenida Itandehui - Avenida Montoya,,17.0642108,-96.7503614,0,
-961,Morelos - Avenida Oaxaca,,17.0633176,-96.7516559,0,
-962,Allende - Avenida Oaxaca,,17.0622957,-96.7528392,0,
+
 963,Base BinniBus Donají,,17.10899,-96.70076,0,
 964,Venustiano Carranza - Carretera a Donají,,17.10803,-96.70053,0,
 965,Vicente Guerrero - Carretera a Donají,,17.105292,-96.701054,0,
@@ -841,18 +775,3 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station
 1129,Guiigu - Luu Laa,,17.0669576,-96.7621047,0,
 1130,Yucuita - Monte Albán,,17.0656503,-96.7614998,0,
 
-1132,Agrarista - Avenida Reforma,,17.01415779,-96.71311156,0,
-1133,Bosque el Tequio - Avenida Reforma,,17.01589795,-96.71581206,0,
-1134,Universidad La Salle Oaxaca,,17.01858369,-96.72079048,0,
-1135,Antiguo Camino a san Bartolo coyotepec,,17.019495,-96.726313,0,
-1136,Arboledas Xoxocotlán,,17.019744,-96.728082,0,
-1137,Carretera al Tequio - San Rafael,,17.022604,-96.729715,0,
-1138,Camino de la Horqueta - Boulevard Guadalupe Hinojosa de Murat,,17.017976,-96.732367,0,
-1139,Real Antequera 1 - Málaga,,17.01472,-96.733802,0,
-1140,Juquilita - Privada Vicente Guerrero,,17.011589,-96.73517,0,
-1141,Los Laureles - Tercera Privada de Eucalipto,,17.008458,-96.736564,0,
-1142,Camino el Potrillo - 16 de Enero,,17.003975,-96.738572,0,
-1143,Ferrocarril - Boulevard Guadalupe Hinojosa de Murat,,17.001147,-96.739836,0,
-1144,Rotonda - Gasolinera PEMEX,,16.99676,-96.74224,0,
-1145,Dzahuindanda - Huarares,,16.99682,-96.74678,0,
-1146,Base BinniBus Anáhuac,,16.996978,-96.749592,0,
