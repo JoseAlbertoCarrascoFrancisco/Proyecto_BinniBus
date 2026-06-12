@@ -5,10 +5,9 @@
     <description/>
     <Style id="icon-1532-0288D1-normal">
       <IconStyle>
-        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-1.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -17,10 +16,9 @@
     </Style>
     <Style id="icon-1532-0288D1-highlight">
       <IconStyle>
-        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-1.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -39,10 +37,9 @@
     </StyleMap>
     <Style id="icon-1532-0288D1-nodesc-normal">
       <IconStyle>
-        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-1.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -54,10 +51,9 @@
     </Style>
     <Style id="icon-1532-0288D1-nodesc-highlight">
       <IconStyle>
-        <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-1.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -79,10 +75,9 @@
     </StyleMap>
     <Style id="icon-1532-7CB342-normal">
       <IconStyle>
-        <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-2.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -91,10 +86,9 @@
     </Style>
     <Style id="icon-1532-7CB342-highlight">
       <IconStyle>
-        <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-2.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -113,10 +107,9 @@
     </StyleMap>
     <Style id="icon-1532-7CB342-nodesc-normal">
       <IconStyle>
-        <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-2.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -128,10 +121,9 @@
     </Style>
     <Style id="icon-1532-7CB342-nodesc-highlight">
       <IconStyle>
-        <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>images/icon-2.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
