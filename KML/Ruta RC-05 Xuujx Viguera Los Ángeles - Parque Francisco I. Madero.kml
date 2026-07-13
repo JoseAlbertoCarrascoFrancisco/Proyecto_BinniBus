@@ -111,9 +111,43 @@
         <styleUrl>#icon-1532-7CB342-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1532-7CB342-nodesc-normal">
+    <Style id="icon-1532-DB4436-normal">
       <IconStyle>
-        <color>ff42b37c</color>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -126,9 +160,9 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1532-7CB342-nodesc-highlight">
+    <Style id="icon-1532-DB4436-nodesc-highlight">
       <IconStyle>
-        <color>ff42b37c</color>
+        <color>ff3644db</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -141,14 +175,14 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1532-7CB342-nodesc">
+    <StyleMap id="icon-1532-DB4436-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1532-7CB342-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1532-DB4436-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1532-7CB342-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1532-DB4436-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-0288D1-5000-nodesc-normal">
@@ -350,7 +384,7 @@
       <Placemark>
         <name>Base Libramiento</name>
         <description>17.12688	-96.749047</description>
-        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <styleUrl>#icon-1532-DB4436</styleUrl>
         <Point>
           <coordinates>
             -96.749047,17.12688,0
@@ -722,7 +756,7 @@
       </Placemark>
       <Placemark>
         <name>Base Francisco I. Madero</name>
-        <styleUrl>#icon-1532-7CB342-nodesc</styleUrl>
+        <styleUrl>#icon-1532-DB4436-nodesc</styleUrl>
         <Point>
           <coordinates>
             -96.73542,17.06624,0
