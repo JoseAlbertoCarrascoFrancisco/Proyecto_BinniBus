@@ -48,14 +48,14 @@ def generar_shapes(shape_id, coords_kml_ida, coords_kml_regreso, archivo_salida=
 # EJEMPLO DE USO
 # ==============================
 
-shape_id = "BinniBusR"
+shape_id = "BinniBusRA"
 
 coords_kml_ida = """
  
 """
 
 coords_kml_regreso = """
- 
+
  """
 
 generar_shapes(shape_id, coords_kml_ida, coords_kml_regreso)

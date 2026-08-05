@@ -1,0 +1,4532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Ruta RC-14 Laba': Yuroo Viguera - San Sebastián Tutla]]></name>
+    <description/>
+    <Style id="icon-1532-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-6000-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-6000-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>9</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-6000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-6000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-6000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-7CB342-7000-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>7</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7CB342-7000-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>10.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7CB342-7000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CB342-7000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CB342-7000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ida</name>
+      <Placemark>
+        <name>Ida</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#line-0288D1-6000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.767839,17.126451,0
+            -96.767706,17.126533,0
+            -96.76579,17.124109,0
+            -96.764678,17.122701,0
+            -96.764515,17.122537,0
+            -96.764467,17.122387,0
+            -96.764316,17.122217,0
+            -96.764148,17.122071,0
+            -96.763643,17.121491,0
+            -96.763345,17.121104,0
+            -96.76267,17.120309,0
+            -96.761826,17.11928,0
+            -96.761177,17.11851,0
+            -96.75983,17.116823,0
+            -96.758896,17.115685,0
+            -96.757963,17.114544,0
+            -96.757187,17.113578,0
+            -96.756944,17.113184,0
+            -96.756733,17.112755,0
+            -96.75638,17.112009,0
+            -96.755783,17.11068,0
+            -96.755387,17.109702,0
+            -96.754068,17.10662,0
+            -96.752928,17.104036,0
+            -96.752694,17.10345,0
+            -96.751636,17.100967,0
+            -96.751356,17.100279,0
+            -96.75036,17.098039,0
+            -96.750008,17.097232,0
+            -96.749241,17.095378,0
+            -96.748775,17.094262,0
+            -96.748504,17.093656,0
+            -96.747695,17.091805,0
+            -96.747233,17.090713,0
+            -96.746255,17.088487,0
+            -96.745908,17.08768,0
+            -96.74475,17.085038,0
+            -96.743789,17.082753,0
+            -96.743612,17.082407,0
+            -96.743594,17.082049,0
+            -96.743533,17.080467,0
+            -96.743432,17.080034,0
+            -96.742891,17.079025,0
+            -96.742153,17.077729,0
+            -96.741763,17.076972,0
+            -96.741503,17.07652,0
+            -96.741326,17.076171,0
+            -96.741233,17.07595,0
+            -96.741191,17.07578,0
+            -96.740963,17.075592,0
+            -96.740841,17.0755,0
+            -96.740604,17.075159,0
+            -96.739341,17.07343,0
+            -96.738387,17.072064,0
+            -96.738024,17.071342,0
+            -96.737575,17.070268,0
+            -96.737146,17.069195,0
+            -96.736585,17.068282,0
+            -96.735728,17.06686,0
+            -96.735043,17.06574,0
+            -96.734398,17.064922,0
+            -96.733859,17.064344,0
+            -96.733381,17.06393,0
+            -96.73261,17.063483,0
+            -96.731763,17.06331,0
+            -96.730023,17.063006,0
+            -96.725887,17.062169,0
+            -96.720608,17.061064,0
+            -96.71593,17.060112,0
+            -96.714459,17.060772,0
+            -96.714258,17.060866,0
+            -96.714058,17.060777,0
+            -96.713871,17.060699,0
+            -96.713724,17.060709,0
+            -96.713609,17.060816,0
+            -96.713566,17.061065,0
+            -96.712595,17.061381,0
+            -96.710107,17.062171,0
+            -96.708772,17.062639,0
+            -96.708123,17.062813,0
+            -96.707316,17.062992,0
+            -96.70616,17.063239,0
+            -96.704757,17.063534,0
+            -96.701712,17.064176,0
+            -96.699982,17.06455,0
+            -96.698732,17.064649,0
+            -96.697404,17.064742,0
+            -96.696412,17.064662,0
+            -96.695645,17.064476,0
+            -96.695279,17.064415,0
+            -96.694976,17.064441,0
+            -96.694522,17.064577,0
+            -96.693892,17.064772,0
+            -96.69338,17.064881,0
+            -96.692808,17.064831,0
+            -96.687306,17.064153,0
+            -96.686505,17.064045,0
+            -96.685992,17.063988,0
+            -96.68483,17.064091,0
+            -96.683226,17.064295,0
+            -96.681871,17.064136,0
+            -96.680783,17.063893,0
+            -96.6792,17.063561,0
+            -96.677619,17.06321,0
+            -96.673279,17.062269,0
+            -96.67203,17.062022,0
+            -96.67056,17.061672,0
+            -96.669758,17.061571,0
+            -96.668052,17.061323,0
+            -96.666904,17.061136,0
+            -96.66717,17.060154,0
+            -96.667609,17.058447,0
+            -96.668376,17.058421,0
+            -96.669319,17.058266,0
+            -96.670452,17.057928,0
+            -96.670424,17.057694,0
+            -96.670442,17.057617,0
+            -96.670529,17.057288,0
+            -96.670678,17.05676,0
+            -96.670809,17.056308,0
+            -96.670828,17.056251,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>A2. C. ÁLVARO OBREGON</name>
+        <description><![CDATA[descripción: Referencia. del otro lado de la cera del COBAO Pueblo Nuevo<br>PARADAS: P4<br>IDA: I4<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: CORRETERA 190 - ALVARO OBREGÓN<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: 17.11839<br>Y: -96.76117<br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. del otro lado de la cera del COBAO Pueblo Nuevo</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P4</value>
+          </Data>
+          <Data name="IDA">
+            <value>I4</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>CORRETERA 190 - ALVARO OBREGÓN</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value>17.11839</value>
+          </Data>
+          <Data name="Y">
+            <value>-96.76117</value>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.761179,17.118397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A3. PLUTARCO ELIAS CALLES</name>
+        <description><![CDATA[descripción: Referencia. Adelante de tiendas NETO<br>PARADAS: P3<br>IDA: I5<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PLUTARCO ELIAS CALLES<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Adelante de tiendas NETO</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P3</value>
+          </Data>
+          <Data name="IDA">
+            <value>I5</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - PLUTARCO ELIAS CALLES</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.758733,17.115415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A4. VICENTE GUERRERO</name>
+        <description><![CDATA[descripción: Adelante del Puente peatonal<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - VICENTE GUERRERO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Adelante del Puente peatonal</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - VICENTE GUERRERO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.756466,17.112194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A5. BRENAMIEL</name>
+        <description><![CDATA[descripción: Referencia. En frente de la ferreteria<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - BRENAMIEL<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de la ferreteria</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - BRENAMIEL</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.754775,17.108297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A6. SAN JACINTO</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar a la gasolinera de Brenamiel<br>PARADAS: P10<br>IDA: I10<br>REGRESO: <br>STATUS: CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - SAN JACINTO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar a la gasolinera de Brenamiel</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P10</value>
+          </Data>
+          <Data name="IDA">
+            <value>I10</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - SAN JACINTO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.752874,17.103691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A7. REFORMA COL. MAESTRO</name>
+        <description><![CDATA[descripción: Referencia. En contra esquina de la provedora escolar<br>PARADAS: P11<br>IDA: I11<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - REFORMA COL. DEL MAESTRO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En contra esquina de la provedora escolar</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P11</value>
+          </Data>
+          <Data name="IDA">
+            <value>I11</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - REFORMA COL. DEL MAESTRO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.751857,17.101466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A8. BODEGA AURRERA</name>
+        <description><![CDATA[descripción: Referencia. Bodega Aurrera<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - AURRERÁ<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Bodega Aurrera</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - AURRERÁ</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.750243,17.097525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A9. MERCADO ZONAL STA. ROSA</name>
+        <description><![CDATA[descripción: Referencia. Mercado Santa Rosa<br>PARADAS: P14<br>IDA: I14<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - MERCADO ZONAL<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Mercado Santa Rosa</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P14</value>
+          </Data>
+          <Data name="IDA">
+            <value>I14</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - MERCADO ZONAL</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.74856,17.093753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A10. CALLE DOS</name>
+        <description><![CDATA[descripción: Referencia. Contra esquina de tienda MERAZ<br>PARADAS: P15<br>IDA: I15<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DOS<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Contra esquina de tienda MERAZ</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P15</value>
+          </Data>
+          <Data name="IDA">
+            <value>I15</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE DOS</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.747325,17.09096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A11. CALLE DE LA PEPSI</name>
+        <description><![CDATA[descripción: Referencia. En frente de farmacia OMEGA antes de llegar a la PEPSI<br>PARADAS: P18<br>IDA: I18<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DE LA PEPSI<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de farmacia OMEGA antes de llegar a la PEPSI</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P18</value>
+          </Data>
+          <Data name="IDA">
+            <value>I18</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE DE LA PEPSI</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.745176,17.086021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A12. CALLE CUAUHTÉMOC</name>
+        <description><![CDATA[descripción: Referencia. En frete de las instalaciones del partido politico PRI<br>PARADAS: P19<br>IDA: I19<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRI<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frete de las instalaciones del partido politico PRI</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P19</value>
+          </Data>
+          <Data name="IDA">
+            <value>I19</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - PRI</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.743872,17.082941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B1. CALLE MONTE ALBAN</name>
+        <description><![CDATA[descripción: Referencia. Tecnologico de oaxaca<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Tecnologico de oaxaca</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.743079,17.079282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B2. JUAN ESCUTIA</name>
+        <description><![CDATA[descripción: Referencia. Adelante del monumento a los Niños Heroes<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - JUAN ESCUTIA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Adelante del monumento a los Niños Heroes</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CALZ. MADERO - JUAN ESCUTIA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.740774,17.075343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B3. PRIV. VICENTE SUÁREZ</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar a los semaforos. Cerca del Magisterio secc.22<br>PARADAS: P24<br>IDA: I24<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar a los semaforos. Cerca del Magisterio secc.22</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P24</value>
+          </Data>
+          <Data name="IDA">
+            <value>I24</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.738454,17.072232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B4. MUSEO DEL FERROCARRIL</name>
+        <description><![CDATA[descripción: Referencia. En la clinica del IMSS<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MAEDRO - MUSEO DEL FERROCARRIL<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En la clinica del IMSS</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CALZ. MAEDRO - MUSEO DEL FERROCARRIL</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.736651,17.068406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C1. JARDÍN MORELOS</name>
+        <description><![CDATA[descripción: Referencia. En la esquina del Jardín<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA DE TPC<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: INDEPENDENCIA - VICTORIA<br>IDA/REG: <br>CALLE 1: francisco I. Madero<br>CALLE 2: Guadalupe Victoria<br>X: 17.06332<br>Y: -96.7318<br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En la esquina del Jardín</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA DE TPC</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>INDEPENDENCIA - VICTORIA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value>francisco I. Madero</value>
+          </Data>
+          <Data name="CALLE 2">
+            <value>Guadalupe Victoria</value>
+          </Data>
+          <Data name="X">
+            <value>17.06332</value>
+          </Data>
+          <Data name="Y">
+            <value>-96.7318</value>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.731806,17.063328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C2. DÍAZ  ORDAZ</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: Referencia. Esquina con crespo<br>descriptio: <br>IDA/REG: IDA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: DÍAZ ORDÁZ<br>X: 17.06266<br>Y: -96.72854<br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>Referencia. Esquina con crespo</value>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value>IDA</value>
+          </Data>
+          <Data name="CALLE 1">
+            <value>AV. DE LA INDEPENDENCIA</value>
+          </Data>
+          <Data name="CALLE 2">
+            <value>DÍAZ ORDÁZ</value>
+          </Data>
+          <Data name="X">
+            <value>17.06266</value>
+          </Data>
+          <Data name="Y">
+            <value>-96.72854</value>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.728546,17.062668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C3. ALAMEDA DE LEÓN</name>
+        <description><![CDATA[descripción: Referencia. Zócalo de la ciudad<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. INDEPENDENCIA - 20 DE NOVIEMBRE<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Zócalo de la ciudad</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. INDEPENDENCIA - 20 DE NOVIEMBRE</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.726185,17.062218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C4. REFORMA-FIALLO</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: Referencia. Contra esquina de la Provedora<br>descriptio: <br>IDA/REG: IDA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: MANUEL FERNANDEZ FIALLO<br>X: 17.06149<br>Y: -96.72273<br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>Referencia. Contra esquina de la Provedora</value>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value>IDA</value>
+          </Data>
+          <Data name="CALLE 1">
+            <value>AV. DE LA INDEPENDENCIA</value>
+          </Data>
+          <Data name="CALLE 2">
+            <value>MANUEL FERNANDEZ FIALLO</value>
+          </Data>
+          <Data name="X">
+            <value>17.06149</value>
+          </Data>
+          <Data name="Y">
+            <value>-96.72273</value>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.722733,17.061498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C5. MANUEL DOBLADO</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: Referencia. A un costado de la Iglesia de la Merced<br>descriptio: <br>IDA/REG: IDA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: MANUEL DOBLADO<br>X: 17.06087<br>Y: -96.71975<br>DIU/NOC: NOCTURNA]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>Referencia. A un costado de la Iglesia de la Merced</value>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value>IDA</value>
+          </Data>
+          <Data name="CALLE 1">
+            <value>AV. DE LA INDEPENDENCIA</value>
+          </Data>
+          <Data name="CALLE 2">
+            <value>MANUEL DOBLADO</value>
+          </Data>
+          <Data name="X">
+            <value>17.06087</value>
+          </Data>
+          <Data name="Y">
+            <value>-96.71975</value>
+          </Data>
+          <Data name="DIU/NOC">
+            <value>NOCTURNA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.719397,17.060802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C6. PROL. DE AV. INDEPENDENCIA</name>
+        <description><![CDATA[descripción: Referencia. Prol. de Independencia<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. DE LA INDEPENDENCIA - PROL. DE AV. INDEDENDENCIA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Prol. de Independencia</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA NO AUTORIZADA</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. DE LA INDEPENDENCIA - PROL. DE AV. INDEDENDENCIA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.715734,17.06015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D1. CALLE 5 DE FEBRERO</name>
+        <description><![CDATA[descripción: Referencia. Pasando los semaforos<br>PARADAS: P36<br>IDA: I37<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Pasando los semaforos</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P36</value>
+          </Data>
+          <Data name="IDA">
+            <value>I37</value>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA NO AUTORIZADA</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>AUTORIZADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.711343,17.061787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D2. CALLE 3 NORTE</name>
+        <description><![CDATA[descripción: Referencia. En frente de la Iglesia de Felicitas y Perpetua<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de la Iglesia de Felicitas y Perpetua</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA NO AUTORIZADA</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>AUTORIZADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.708885,17.062556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D3. CALLE LAGUNA DE TÉRMINO</name>
+        <description><![CDATA[descripción: Referencia. Parada en la esquina del lava autos San Miguel<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Parada en la esquina del lava autos San Miguel</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.706422,17.063183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D4. AV. 16 DE SEPTIEMBRE</name>
+        <description><![CDATA[descripción: Referencia. Antes de cruzar los semáforos<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de cruzar los semáforos</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.702279,17.064014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D5. CALLE CARRIZAL</name>
+        <description><![CDATA[descripción: Referencia. Adelante de pasteleria QUEMEN<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. LAZARO CARDENAS - CALLE CARRIZAL<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Adelante de pasteleria QUEMEN</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE CARRIZAL</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.699453,17.064581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D6. AV. CALICANTO</name>
+        <description><![CDATA[descripción: Referencia. En frente del OXXO<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. CALICANTO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente del OXXO</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - AV. CALICANTO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.696649,17.064639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D7. AV. JUÁREZ</name>
+        <description><![CDATA[descripción: Referencia. En frente del tanque elevado<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. JUAREZ<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente del tanque elevado</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - AV. JUAREZ</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.693822,17.064771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D9. CALLE LA RAYA</name>
+        <description><![CDATA[descripción: referencia. Antes de llegar a la Gasolinera<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. LAZARO CARDENAS - CALLE LA RAYA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>referencia. Antes de llegar a la Gasolinera</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE LA RAYA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.686676,17.064038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D11. CAMINO NACIONAL</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: Referencia. En frente del OXXO<br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value>Referencia. En frente del OXXO</value>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.680255,17.0638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E1. 3era. PRIV. DE GUERRERO</name>
+        <description><![CDATA[descripción: Referencia. En la esquina de la calle<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En la esquina de la calle</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.676836,17.063002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E2. UNIÓN</name>
+        <description><![CDATA[descripción: Referencia. En contra esquina del tanque elevado<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En contra esquina del tanque elevado</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.672496,17.06213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E3. INDEPENDENCIA</name>
+        <description><![CDATA[descripción: Referencia. Esquina de la calle<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Esquina de la calle</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.670339,17.061633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E4. ARENAL</name>
+        <description><![CDATA[descripción: Referencia. Atras del hotel 3 Generaciones<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Atras del hotel 3 Generaciones</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.667339,17.061234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F1. AV. FERROCARRIL</name>
+        <description><![CDATA[descripción: Referencia. Arenal esquina con Av. Ferrocarril<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Arenal esquina con Av. Ferrocarril</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.667595,17.058501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G1. AV. FERROCARRIL</name>
+        <description><![CDATA[descripción: Referencia. Calz. esquina Av. ferrocail<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Calz. esquina Av. ferrocail</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.670409,17.057644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BASE PANTEÓN MUNICIPAL DE SAN SEBASTIAN</name>
+        <description><![CDATA[descripción: Referencia. Panteón Municipal<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Panteón Municipal</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.671152,17.0559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Regreso</name>
+      <Placemark>
+        <name>Regreso</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#line-7CB342-7000</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -96.670913,17.055847,0
+            -96.670755,17.056399,0
+            -96.670517,17.057227,0
+            -96.670398,17.057629,0
+            -96.670367,17.05777,0
+            -96.670078,17.057836,0
+            -96.668847,17.058185,0
+            -96.668385,17.058258,0
+            -96.667843,17.058272,0
+            -96.667297,17.058207,0
+            -96.66671,17.058017,0
+            -96.666178,17.057847,0
+            -96.665427,17.057598,0
+            -96.664817,17.057394,0
+            -96.663472,17.056929,0
+            -96.663227,17.056845,0
+            -96.662791,17.056701,0
+            -96.66252,17.056608,0
+            -96.662342,17.056542,0
+            -96.662284,17.056695,0
+            -96.663817,17.057205,0
+            -96.665419,17.057754,0
+            -96.666494,17.05812,0
+            -96.667209,17.058338,0
+            -96.667558,17.05841,0
+            -96.667583,17.058452,0
+            -96.667471,17.0589,0
+            -96.66729,17.059614,0
+            -96.667158,17.060064,0
+            -96.667074,17.060411,0
+            -96.666862,17.061161,0
+            -96.666934,17.061187,0
+            -96.667132,17.061223,0
+            -96.667973,17.061349,0
+            -96.669811,17.061613,0
+            -96.670367,17.061681,0
+            -96.671269,17.06187,0
+            -96.672005,17.062045,0
+            -96.67373,17.062418,0
+            -96.675608,17.062816,0
+            -96.676405,17.06299,0
+            -96.676728,17.063054,0
+            -96.678227,17.063388,0
+            -96.679098,17.063577,0
+            -96.679531,17.063682,0
+            -96.680108,17.063805,0
+            -96.680418,17.063867,0
+            -96.681058,17.064005,0
+            -96.681699,17.064133,0
+            -96.682798,17.064287,0
+            -96.683181,17.064325,0
+            -96.68344,17.064321,0
+            -96.683644,17.064288,0
+            -96.685121,17.064126,0
+            -96.68599,17.064036,0
+            -96.687793,17.064264,0
+            -96.688486,17.064343,0
+            -96.691171,17.064675,0
+            -96.692761,17.064859,0
+            -96.693383,17.064914,0
+            -96.69373,17.064848,0
+            -96.694009,17.064773,0
+            -96.694791,17.064537,0
+            -96.695177,17.064457,0
+            -96.695527,17.064489,0
+            -96.695831,17.064552,0
+            -96.696153,17.064628,0
+            -96.696538,17.064695,0
+            -96.696866,17.064732,0
+            -96.697406,17.064772,0
+            -96.69798,17.06474,0
+            -96.698149,17.06473,0
+            -96.699965,17.064585,0
+            -96.701154,17.064344,0
+            -96.702641,17.064023,0
+            -96.703738,17.063828,0
+            -96.705694,17.063432,0
+            -96.706361,17.063263,0
+            -96.706927,17.063131,0
+            -96.707761,17.062943,0
+            -96.708581,17.062747,0
+            -96.709618,17.062395,0
+            -96.710433,17.062143,0
+            -96.711495,17.061809,0
+            -96.712049,17.061646,0
+            -96.712559,17.061479,0
+            -96.71356,17.06116,0
+            -96.713771,17.061035,0
+            -96.713984,17.060987,0
+            -96.714303,17.060921,0
+            -96.714523,17.060905,0
+            -96.714825,17.060973,0
+            -96.716085,17.061202,0
+            -96.723366,17.062614,0
+            -96.729144,17.063808,0
+            -96.729568,17.063933,0
+            -96.729997,17.064015,0
+            -96.730467,17.064078,0
+            -96.732229,17.064323,0
+            -96.732725,17.064834,0
+            -96.733282,17.065556,0
+            -96.733964,17.066374,0
+            -96.734147,17.066587,0
+            -96.734297,17.066695,0
+            -96.734606,17.066954,0
+            -96.735093,17.067522,0
+            -96.735429,17.068028,0
+            -96.735689,17.068463,0
+            -96.735869,17.068796,0
+            -96.736144,17.069427,0
+            -96.736341,17.070022,0
+            -96.736521,17.07048,0
+            -96.736637,17.070885,0
+            -96.73677,17.071167,0
+            -96.737367,17.072265,0
+            -96.737705,17.072842,0
+            -96.737965,17.073323,0
+            -96.738518,17.074266,0
+            -96.739058,17.075104,0
+            -96.739255,17.075274,0
+            -96.739716,17.075881,0
+            -96.739968,17.0764,0
+            -96.740535,17.077681,0
+            -96.740959,17.078646,0
+            -96.741342,17.079475,0
+            -96.741502,17.079864,0
+            -96.741587,17.080095,0
+            -96.741858,17.080301,0
+            -96.742239,17.080549,0
+            -96.742545,17.080768,0
+            -96.742897,17.081155,0
+            -96.743165,17.081706,0
+            -96.743466,17.082432,0
+            -96.744211,17.084166,0
+            -96.74461,17.085066,0
+            -96.74614,17.08856,0
+            -96.747606,17.092002,0
+            -96.748785,17.094736,0
+            -96.749271,17.095899,0
+            -96.750529,17.098809,0
+            -96.750947,17.099732,0
+            -96.752166,17.102589,0
+            -96.753605,17.105938,0
+            -96.75476,17.108593,0
+            -96.75521,17.109721,0
+            -96.756021,17.111541,0
+            -96.756391,17.112409,0
+            -96.75666,17.11299,0
+            -96.756994,17.113536,0
+            -96.757429,17.11415,0
+            -96.75806,17.114904,0
+            -96.758844,17.11584,0
+            -96.760797,17.11833,0
+            -96.763301,17.121405,0
+            -96.763955,17.122234,0
+            -96.764188,17.122526,0
+            -96.764365,17.122691,0
+            -96.76492,17.123365,0
+            -96.767112,17.125988,0
+            -96.767812,17.126828,0
+            -96.769534,17.128977,0
+            -96.770653,17.130366,0
+            -96.772093,17.132121,0
+            -96.773058,17.133379,0
+            -96.773952,17.134437,0
+            -96.774327,17.134909,0
+            -96.774778,17.135879,0
+            -96.774985,17.136294,0
+            -96.775045,17.136387,0
+            -96.775081,17.136415,0
+            -96.775152,17.136399,0
+            -96.775118,17.136253,0
+            -96.774981,17.135932,0
+            -96.774799,17.135542,0
+            -96.774442,17.134811,0
+            -96.773998,17.134293,0
+            -96.77256,17.132488,0
+            -96.771213,17.130834,0
+            -96.769636,17.128902,0
+            -96.768032,17.126936,0
+            -96.767795,17.126554,0
+            -96.767881,17.126489,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>A1. AV. FERROCARRIL</name>
+        <description><![CDATA[descripción: Referencia. Parada sobre Av. Ferrocarril<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Parada sobre Av. Ferrocarril</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.670201,17.057803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B1. PUENTE NEGRO</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar al puente<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar al puente</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.667338,17.058164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B2. EL ARENAL</name>
+        <description><![CDATA[descripción: Referencia. Adelante del Mnisuper<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Adelante del Mnisuper</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.667498,17.058659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C1. EL ARENAL</name>
+        <description><![CDATA[descripción: Referencia. Atras del hotel 3 Generaciones<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Atras del hotel 3 Generaciones</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.667129,17.061243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D1. INDEPENDENCIA</name>
+        <description><![CDATA[descripción: Camino Nacional y Calle Independencia<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Camino Nacional y Calle Independencia</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.670291,17.06165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D2. ANTONIO DELEON</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar al tanque elevado de San Sebastian<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar al tanque elevado de San Sebastian</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.671434,17.061897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D3. 3era PRIV. DE GUERRERO</name>
+        <description><![CDATA[descripción: Camino nacional y Tercera Privada de Guerrero<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Camino nacional y Tercera Privada de Guerrero</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.676767,17.063069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E1. CAMINO NACIONAL</name>
+        <description><![CDATA[descripción: Referencia. En frente del OXXO<br>PARADAS: P55<br>IDA: <br>REGRESO: R1<br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: AV. LAZARO CARDENAS - CAMINO NACIONAL (SAN SEBASTIAN TUTLA)<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente del OXXO</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P55</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R1</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CAMINO NACIONAL (SAN SEBASTIAN TUTLA)</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.680196,17.063885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E2. COLEGIO ATONALTZIN</name>
+        <description><![CDATA[descripción: Referencia. En el colegio Atonaltzin<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: PROPUESTA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En el colegio Atonaltzin</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA AUTORIZADA POR G-MAPS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.682688,17.064326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E4. SAN DIEGO DE LOS HORNOS</name>
+        <description><![CDATA[descripción: Referencia. En frente de la fereteria<br>PARADAS: <br>IDA: <br>REGRESO: R6<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de la fereteria</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R6</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.688949,17.064384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E5. CALLE SIRACUZA</name>
+        <description><![CDATA[descripción: Referencia. En el tanque elevado<br>PARADAS: P58<br>IDA: <br>REGRESO: R8<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - C. SIRACUZA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En el tanque elevado</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P58</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R8</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - C. SIRACUZA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.69383,17.064806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E5. CBTIS 123</name>
+        <description><![CDATA[descripción: <br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.691874,17.064772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E6. AV. SABINOS</name>
+        <description><![CDATA[descripción: Referencia. En la esquina de la calle<br>PARADAS: P59<br>IDA: <br>REGRESO: R9<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. SABINOS<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En la esquina de la calle</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P59</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R9</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - AV. SABINOS</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.697094,17.064736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E7. CALLE PARAISO</name>
+        <description><![CDATA[descripción: Referencia. en frente del gimnasio<br>PARADAS: P60<br>IDA: <br>REGRESO: R10<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE PARAISO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. en frente del gimnasio</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P60</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R10</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE PARAISO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.699974,17.06461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E8. CALLE GUELATAO</name>
+        <description><![CDATA[descripción: Referencia. Pasando el centro de convenciones. En frente de abarrotes la Soledad<br>PARADAS: P61<br>IDA: <br>REGRESO: R11<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE GUELATAO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Pasando el centro de convenciones. En frente de abarrotes la Soledad</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P61</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R11</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE GUELATAO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.705919,17.063334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E9. CALLE 3 NORTE</name>
+        <description><![CDATA[descripción: Referencia. Una cuadra antes de llegar a la iglesia de felicitas<br>PARADAS: P62<br>IDA: <br>REGRESO: R12<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Una cuadra antes de llegar a la iglesia de felicitas</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P62</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R12</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.708679,17.062707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E10. CALLE 5 DE FEBRERO</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar a la esquina<br>PARADAS: P63<br>IDA: <br>REGRESO: R13<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar a la esquina</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P63</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R13</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.711374,17.061829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F1. PROL. CALZ. REPUBLICA</name>
+        <description><![CDATA[descripción: Referencia. En frente de del Kinder<br>PARADAS: P64<br>IDA: <br>REGRESO: R14<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de del Kinder</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P64</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R14</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.714887,17.061023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F2. CALLE INSURGENTES</name>
+        <description><![CDATA[descripción: Referencia. En la esquina de la calle<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En la esquina de la calle</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.716844,17.061391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F4. CALLE PINO SUÁREZ</name>
+        <description><![CDATA[descripción: Referencia. En frente del kinder<br>PARADAS: P66<br>IDA: <br>REGRESO: R16<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente del kinder</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P66</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R16</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.720323,17.062064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F6. ANDADOR TURISTICO</name>
+        <description><![CDATA[descripción: Referencia. antes de llegar a la esquina de Macedonio Alcala<br>PARADAS: P68<br>IDA: <br>REGRESO: R18<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS -  CALLE PORFIRIO DÍAZ<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. antes de llegar a la esquina de Macedonio Alcala</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P68</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R18</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. JOSÉ MARIA MORELOS -  CALLE PORFIRIO DÍAZ</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.724121,17.062828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F7. PORFIRIO DIAZ</name>
+        <description><![CDATA[descripción: Referencia. CITIBANAMEX<br>PARADAS: <br>IDA: <br>REGRESO: <br>STATUS: <br>AP / PR: <br>Descripción: <br>descriptio: <br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. CITIBANAMEX</value>
+          </Data>
+          <Data name="PARADAS">
+            <value/>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value/>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="descriptio">
+            <value/>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.726226,17.063234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F9. CALVARIO</name>
+        <description><![CDATA[descripción: Referencia. Palacio Municipal de Oaxaca<br>PARADAS: P69<br>IDA: <br>REGRESO: R69<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Palacio Municipal de Oaxaca</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P69</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R69</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.730438,17.064096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G1. PLAZUELA VICENTE GUERRERO</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar a los semáforos<br>PARADAS: P70<br>IDA: <br>REGRESO: R20<br>STATUS: <br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar a los semáforos</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P70</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R20</value>
+          </Data>
+          <Data name="STATUS">
+            <value/>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.734135,17.066566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G3. ALFONSO PEREZ GASGA</name>
+        <description><![CDATA[descripción: Referencia. En frente de consultorio<br>PARADAS: P73<br>IDA: <br>REGRESO: R23<br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de consultorio</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P73</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R23</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA AUTORIZADA POR G-MAPS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>PROPUESTA</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.736638,17.070917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G6. CALLE MONTE ALBÁN</name>
+        <description><![CDATA[descripción: Referencia. Salida del CHEDRAUI<br>PARADAS: P76<br>IDA: <br>REGRESO: R26<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: AV. NIÑOS HEROES - CALLE MONTE ALBÁN<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Salida del CHEDRAUI</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P76</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R26</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>AV. NIÑOS HEROES - CALLE MONTE ALBÁN</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.741307,17.079556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H1. CALLE CUAUHTÉMOC</name>
+        <description><![CDATA[descripción: Referencia. Gasolinera Faja de oro<br>PARADAS: P77<br>IDA: <br>REGRESO: R27<br>STATUS: PARADA CITYBUS<br>AP / PR: AUTORIZADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE CUAUHTÉMOC<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Gasolinera Faja de oro</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P77</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R27</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>AUTORIZADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE CUAUHTÉMOC</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.743749,17.083076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H2. CALLE 6a NORTE</name>
+        <description><![CDATA[descripción: Referencia. Templo religioso<br>PARADAS: P78<br>IDA: <br>REGRESO: R28<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE 6TA NORTE<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Templo religioso</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P78</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R28</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE 6TA NORTE</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.745116,17.0864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H4. SANTA CAROLINA</name>
+        <description><![CDATA[descripción: Referencia. Mercado zonal de Santa Rosa<br>PARADAS: P80<br>IDA: <br>REGRESO: R30<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADO<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - SANTA CAROLINA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Mercado zonal de Santa Rosa</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P80</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R30</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADO</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - SANTA CAROLINA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.74811,17.093252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H5. PRIV. DE LOS PINOS</name>
+        <description><![CDATA[descripción: Referencia. Bodega Aurrera<br>PARADAS: P82<br>IDA: <br>REGRESO: R32<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRIV. DE LOS PINOS<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Bodega Aurrera</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P82</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R32</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - PRIV. DE LOS PINOS</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.750023,17.097774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H6. CALLE REFORMA</name>
+        <description><![CDATA[descripción: Referencia. Antes de llegar a los semáforos y la provedora<br>PARADAS: P83<br>IDA: <br>REGRESO: R33<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE REFORMA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Antes de llegar a los semáforos y la provedora</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P83</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R33</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE REFORMA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.751419,17.10102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H7 JAIME TORRES BODET</name>
+        <description><![CDATA[descripción: Referencia. En frente del deportivo Brenamiel<br>PARADAS: P84<br>IDA: <br>REGRESO: R84<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - JAIME TORRES BODET<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente del deportivo Brenamiel</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P84</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R84</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - JAIME TORRES BODET</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.753181,17.104957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H8. EL ROSARIO</name>
+        <description><![CDATA[descripción: Referencia.<br>PARADAS: P86<br>IDA: <br>REGRESO: R36<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE EL ROSARIO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia.</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P86</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R36</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE EL ROSARIO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.754787,17.108614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H9. CALLE VICENTE GUERRERO</name>
+        <description><![CDATA[descripción: Referencia. En el puente Peatonal<br>PARADAS: P87<br>IDA: <br>REGRESO: R37<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VICENTE GUERRERO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En el puente Peatonal</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P87</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R37</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE VICENTE GUERRERO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.756403,17.112433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H10. CALLE PLUTARCO ELÍAS CALLES</name>
+        <description><![CDATA[descripción: Referencia. Adelante del puente peatonal<br>PARADAS: P88<br>IDA: <br>REGRESO: R38<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. Adelante del puente peatonal</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P88</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R38</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.758452,17.115464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H11. COBAO 01</name>
+        <description><![CDATA[descripción: Referencia. En el COBAO<br>PARADAS: P89<br>IDA: <br>REGRESO: R39<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - COBAO<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En el COBAO</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P89</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R39</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - COBAO</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.760926,17.118409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>H12. CALLE VIGUERA</name>
+        <description><![CDATA[descripción: Referencia. En frente de la tienda COPPEL<br>PARADAS: P90<br>IDA: <br>REGRESO: R40<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VIGUERA<br>IDA/REG: <br>CALLE 1: <br>CALLE 2: <br>X: <br>Y: <br>DIU/NOC: ]]></description>
+        <styleUrl>#icon-1532-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Referencia. En frente de la tienda COPPEL</value>
+          </Data>
+          <Data name="PARADAS">
+            <value>P90</value>
+          </Data>
+          <Data name="IDA">
+            <value/>
+          </Data>
+          <Data name="REGRESO">
+            <value>R40</value>
+          </Data>
+          <Data name="STATUS">
+            <value>PARADA CITYBUS</value>
+          </Data>
+          <Data name="AP / PR">
+            <value>APROBADA</value>
+          </Data>
+          <Data name="Descripción">
+            <value>CITYBUS</value>
+          </Data>
+          <Data name="descriptio">
+            <value>CARRETERA 190 - CALLE VIGUERA</value>
+          </Data>
+          <Data name="IDA/REG">
+            <value/>
+          </Data>
+          <Data name="CALLE 1">
+            <value/>
+          </Data>
+          <Data name="CALLE 2">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value/>
+          </Data>
+          <Data name="Y">
+            <value/>
+          </Data>
+          <Data name="DIU/NOC">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.763818,17.122121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
