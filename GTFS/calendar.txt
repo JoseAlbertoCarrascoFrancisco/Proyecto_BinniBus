@@ -1,4 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 FULL,1,1,1,1,1,1,1,20251101,20281231
-FULLBNB_WD,1,1,1,1,0,0,1,20251101,20281231
-FULLBNB_WE,0,0,0,0,1,1,0,20251101,20281231

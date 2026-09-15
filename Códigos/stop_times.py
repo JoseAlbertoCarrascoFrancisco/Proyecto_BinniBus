@@ -101,7 +101,7 @@ def generar_stop_times_desde_horarios(
 # =================================================================
 # === CONFIGURACIÓN ===
 # =================================================================
-RUTA = "BinniBusRT02.1
+RUTA = "BinniBusRT02.1"
 
 PARADAS_RAW = """
 757
