@@ -1,5 +1,6 @@
 fare_id,route_id
 1,RT01
+1,RT02
 1,RA01
 1,RA02
 1,RA03
